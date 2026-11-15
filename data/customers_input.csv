@@ -1,0 +1,203 @@
+Month,Market,CustomerType,Customers,Orders
+2009-12-01,United Kingdom,New,902,1418
+2009-12-01,United Kingdom,Guest (no ID),0,165
+2009-12-01,EU,New,43,73
+2009-12-01,EU,Guest (no ID),0,4
+2009-12-01,Rest of world,New,6,6
+2010-01-01,United Kingdom,New,340,389
+2010-01-01,United Kingdom,Returning,315,501
+2010-01-01,United Kingdom,Guest (no ID),0,90
+2010-01-01,EU,New,22,26
+2010-01-01,EU,Returning,18,35
+2010-01-01,Rest of world,New,6,8
+2010-02-01,United Kingdom,New,344,399
+2010-02-01,United Kingdom,Returning,368,599
+2010-02-01,United Kingdom,Guest (no ID),0,92
+2010-02-01,EU,New,26,33
+2010-02-01,EU,Returning,25,54
+2010-02-01,EU,Guest (no ID),0,1
+2010-02-01,Rest of world,New,5,5
+2010-02-01,Rest of world,Returning,3,3
+2010-02-01,Rest of world,Guest (no ID),0,3
+2010-03-01,United Kingdom,New,411,491
+2010-03-01,United Kingdom,Returning,570,899
+2010-03-01,United Kingdom,Guest (no ID),0,134
+2010-03-01,EU,New,26,29
+2010-03-01,EU,Returning,37,82
+2010-03-01,EU,Guest (no ID),0,1
+2010-03-01,Rest of world,New,4,5
+2010-03-01,Rest of world,Returning,3,3
+2010-03-01,Rest of world,Guest (no ID),0,3
+2010-04-01,United Kingdom,New,268,295
+2010-04-01,United Kingdom,Returning,605,918
+2010-04-01,United Kingdom,Guest (no ID),0,115
+2010-04-01,EU,New,21,21
+2010-04-01,EU,Returning,38,74
+2010-04-01,EU,Guest (no ID),0,4
+2010-04-01,Rest of world,New,5,5
+2010-04-01,Rest of world,Returning,2,2
+2010-04-01,Rest of world,Guest (no ID),0,1
+2010-05-01,United Kingdom,New,234,262
+2010-05-01,United Kingdom,Returning,667,1002
+2010-05-01,United Kingdom,Guest (no ID),0,117
+2010-05-01,EU,New,14,14
+2010-05-01,EU,Returning,36,69
+2010-05-01,EU,Guest (no ID),0,1
+2010-05-01,Rest of world,New,7,9
+2010-05-01,Rest of world,Returning,7,9
+2010-05-01,Rest of world,Guest (no ID),0,1
+2010-06-01,United Kingdom,New,243,279
+2010-06-01,United Kingdom,Returning,719,1087
+2010-06-01,United Kingdom,Guest (no ID),0,131
+2010-06-01,EU,New,16,17
+2010-06-01,EU,Returning,45,85
+2010-06-01,Rest of world,New,8,8
+2010-06-01,Rest of world,Returning,3,3
+2010-06-01,Rest of world,Guest (no ID),0,2
+2010-07-01,United Kingdom,New,163,210
+2010-07-01,United Kingdom,Returning,691,1053
+2010-07-01,United Kingdom,Guest (no ID),0,139
+2010-07-01,EU,New,20,21
+2010-07-01,EU,Returning,41,65
+2010-07-01,EU,Guest (no ID),0,6
+2010-07-01,Rest of world,New,2,2
+2010-07-01,Rest of world,Returning,8,11
+2010-08-01,United Kingdom,New,149,174
+2010-08-01,United Kingdom,Returning,699,1008
+2010-08-01,United Kingdom,Guest (no ID),0,122
+2010-08-01,EU,New,10,11
+2010-08-01,EU,Returning,42,73
+2010-08-01,EU,Guest (no ID),0,4
+2010-08-01,Rest of world,New,4,4
+2010-08-01,Rest of world,Returning,6,6
+2010-09-01,United Kingdom,New,216,245
+2010-09-01,United Kingdom,Returning,825,1255
+2010-09-01,United Kingdom,Guest (no ID),0,127
+2010-09-01,EU,New,16,17
+2010-09-01,EU,Returning,62,118
+2010-09-01,EU,Guest (no ID),0,1
+2010-09-01,Rest of world,New,7,11
+2010-09-01,Rest of world,Returning,10,13
+2010-09-01,Rest of world,Guest (no ID),0,2
+2010-10-01,United Kingdom,New,337,392
+2010-10-01,United Kingdom,Returning,1038,1539
+2010-10-01,United Kingdom,Guest (no ID),0,131
+2010-10-01,EU,New,28,29
+2010-10-01,EU,Returning,67,123
+2010-10-01,EU,Guest (no ID),0,4
+2010-10-01,Rest of world,New,10,10
+2010-10-01,Rest of world,Returning,12,15
+2010-10-01,Rest of world,Guest (no ID),0,1
+2010-11-01,United Kingdom,New,306,381
+2010-11-01,United Kingdom,Returning,1179,1986
+2010-11-01,United Kingdom,Guest (no ID),0,138
+2010-11-01,EU,New,11,12
+2010-11-01,EU,Returning,88,166
+2010-11-01,EU,Guest (no ID),0,8
+2010-11-01,Rest of world,New,9,10
+2010-11-01,Rest of world,Returning,13,15
+2010-11-01,Rest of world,Guest (no ID),0,3
+2010-12-01,United Kingdom,New,64,67
+2010-12-01,United Kingdom,Returning,750,1220
+2010-12-01,United Kingdom,Guest (no ID),0,153
+2010-12-01,EU,New,9,9
+2010-12-01,EU,Returning,51,86
+2010-12-01,EU,Guest (no ID),0,2
+2010-12-01,Rest of world,New,3,3
+2010-12-01,Rest of world,Returning,7,9
+2010-12-01,Rest of world,Guest (no ID),0,1
+2011-01-01,United Kingdom,New,63,67
+2011-01-01,United Kingdom,Returning,582,804
+2011-01-01,United Kingdom,Guest (no ID),0,96
+2011-01-01,EU,New,8,10
+2011-01-01,EU,Returning,72,86
+2011-01-01,Rest of world,New,1,1
+2011-01-01,Rest of world,Returning,13,15
+2011-01-01,Rest of world,Guest (no ID),0,2
+2011-02-01,United Kingdom,New,109,123
+2011-02-01,United Kingdom,Returning,569,770
+2011-02-01,United Kingdom,Guest (no ID),0,97
+2011-02-01,EU,New,12,13
+2011-02-01,EU,Returning,52,68
+2011-02-01,EU,Guest (no ID),0,4
+2011-02-01,Rest of world,New,4,4
+2011-02-01,Rest of world,Returning,12,14
+2011-03-01,United Kingdom,New,164,184
+2011-03-01,United Kingdom,Returning,715,991
+2011-03-01,United Kingdom,Guest (no ID),0,127
+2011-03-01,EU,New,13,17
+2011-03-01,EU,Returning,67,104
+2011-03-01,EU,Guest (no ID),0,1
+2011-03-01,Rest of world,New,2,2
+2011-03-01,Rest of world,Returning,12,14
+2011-04-01,United Kingdom,New,93,106
+2011-04-01,United Kingdom,Returning,691,948
+2011-04-01,United Kingdom,Guest (no ID),0,94
+2011-04-01,EU,New,9,11
+2011-04-01,EU,Returning,49,61
+2011-04-01,Rest of world,New,4,4
+2011-04-01,Rest of world,Returning,7,9
+2011-04-01,Rest of world,Guest (no ID),0,2
+2011-05-01,United Kingdom,New,97,109
+2011-05-01,United Kingdom,Returning,864,1291
+2011-05-01,United Kingdom,Guest (no ID),0,118
+2011-05-01,EU,New,12,13
+2011-05-01,EU,Returning,70,118
+2011-05-01,EU,Guest (no ID),0,4
+2011-05-01,Rest of world,New,2,2
+2011-05-01,Rest of world,Returning,9,11
+2011-05-01,Rest of world,Guest (no ID),0,2
+2011-06-01,United Kingdom,New,94,109
+2011-06-01,United Kingdom,Returning,794,1139
+2011-06-01,United Kingdom,Guest (no ID),0,131
+2011-06-01,EU,New,11,12
+2011-06-01,EU,Returning,78,114
+2011-06-01,EU,Guest (no ID),0,3
+2011-06-01,Rest of world,New,3,4
+2011-06-01,Rest of world,Returning,10,12
+2011-06-01,Rest of world,Guest (no ID),0,1
+2011-07-01,United Kingdom,New,89,106
+2011-07-01,United Kingdom,Returning,767,1087
+2011-07-01,United Kingdom,Guest (no ID),0,124
+2011-07-01,EU,New,9,9
+2011-07-01,EU,Returning,66,98
+2011-07-01,EU,Guest (no ID),0,5
+2011-07-01,Rest of world,New,3,4
+2011-07-01,Rest of world,Returning,12,17
+2011-07-01,Rest of world,Guest (no ID),0,2
+2011-08-01,United Kingdom,New,87,94
+2011-08-01,United Kingdom,Returning,746,1032
+2011-08-01,United Kingdom,Guest (no ID),0,69
+2011-08-01,EU,New,15,16
+2011-08-01,EU,Returning,69,108
+2011-08-01,EU,Guest (no ID),0,2
+2011-08-01,Rest of world,New,5,5
+2011-08-01,Rest of world,Returning,11,12
+2011-08-01,Rest of world,Guest (no ID),0,1
+2011-09-01,United Kingdom,New,169,197
+2011-09-01,United Kingdom,Returning,971,1359
+2011-09-01,United Kingdom,Guest (no ID),0,75
+2011-09-01,EU,New,16,18
+2011-09-01,EU,Returning,85,142
+2011-09-01,EU,Guest (no ID),0,2
+2011-09-01,Rest of world,New,3,3
+2011-09-01,Rest of world,Returning,16,20
+2011-09-01,Rest of world,Guest (no ID),0,2
+2011-10-01,United Kingdom,New,195,230
+2011-10-01,United Kingdom,Returning,1033,1462
+2011-10-01,United Kingdom,Guest (no ID),0,97
+2011-10-01,EU,New,19,21
+2011-10-01,EU,Returning,94,162
+2011-10-01,EU,Guest (no ID),0,1
+2011-10-01,Rest of world,New,7,8
+2011-10-01,Rest of world,Returning,14,20
+2011-10-01,Rest of world,Guest (no ID),0,4
+2011-11-01,United Kingdom,New,176,225
+2011-11-01,United Kingdom,Returning,1327,2154
+2011-11-01,United Kingdom,Guest (no ID),0,102
+2011-11-01,EU,New,14,15
+2011-11-01,EU,Returning,127,227
+2011-11-01,EU,Guest (no ID),0,5
+2011-11-01,Rest of world,New,1,1
+2011-11-01,Rest of world,Returning,15,20
+2011-11-01,Rest of world,Guest (no ID),0,2

@@ -1,0 +1,1748 @@
+Month,Market,ProductLine,CustomerType,NetSales,Units
+2009-12-01,United Kingdom,Christmas & seasonal,New,20319.55,15112
+2009-12-01,United Kingdom,Christmas & seasonal,Returning,-156.43,-61
+2009-12-01,United Kingdom,Christmas & seasonal,Guest (no ID),9138.5,2040
+2009-12-01,United Kingdom,Gifts & accessories,New,99562.31,34884
+2009-12-01,United Kingdom,Gifts & accessories,Returning,-367.05,-101
+2009-12-01,United Kingdom,Gifts & accessories,Guest (no ID),14754.26,2496
+2009-12-01,United Kingdom,Candles & lighting,New,99367.57,53620
+2009-12-01,United Kingdom,Candles & lighting,Returning,-645.23,-281
+2009-12-01,United Kingdom,Candles & lighting,Guest (no ID),10998.57,2245
+2009-12-01,United Kingdom,Party & gift wrap,New,29739.66,45246
+2009-12-01,United Kingdom,Party & gift wrap,Returning,-127.91,-131
+2009-12-01,United Kingdom,Party & gift wrap,Guest (no ID),3506.03,1521
+2009-12-01,United Kingdom,Kitchen & dining,New,101662.65,51907
+2009-12-01,United Kingdom,Kitchen & dining,Returning,-659.84,-208
+2009-12-01,United Kingdom,Kitchen & dining,Guest (no ID),26758.22,5291
+2009-12-01,United Kingdom,Bags & storage,New,37897.64,27862
+2009-12-01,United Kingdom,Bags & storage,Returning,-138.85,-65
+2009-12-01,United Kingdom,Bags & storage,Guest (no ID),5335.75,1473
+2009-12-01,United Kingdom,"Toys, crafts & stationery",New,24388.81,19712
+2009-12-01,United Kingdom,"Toys, crafts & stationery",Returning,-191.47,-149
+2009-12-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),6908.41,2163
+2009-12-01,United Kingdom,Home decor,New,128337.52,70681
+2009-12-01,United Kingdom,Home decor,Returning,-584.79,-339
+2009-12-01,United Kingdom,Home decor,Guest (no ID),24385.63,5133
+2009-12-01,United Kingdom,Other,New,53334.74,34066
+2009-12-01,United Kingdom,Other,Returning,-344.26,-102
+2009-12-01,United Kingdom,Other,Guest (no ID),16343.82,3521
+2009-12-01,EU,Christmas & seasonal,New,1276.16,1018
+2009-12-01,EU,Christmas & seasonal,Returning,-5.95,-1
+2009-12-01,EU,Christmas & seasonal,Guest (no ID),31.8,4
+2009-12-01,EU,Gifts & accessories,New,6950.0,2243
+2009-12-01,EU,Gifts & accessories,Guest (no ID),82.3,18
+2009-12-01,EU,Candles & lighting,New,7145.29,3225
+2009-12-01,EU,Candles & lighting,Returning,-22.0,-3
+2009-12-01,EU,Candles & lighting,Guest (no ID),319.17,159
+2009-12-01,EU,Party & gift wrap,New,3049.96,3723
+2009-12-01,EU,Party & gift wrap,Returning,-5.85,-3
+2009-12-01,EU,Party & gift wrap,Guest (no ID),68.4,56
+2009-12-01,EU,Kitchen & dining,New,17171.11,7605
+2009-12-01,EU,Kitchen & dining,Returning,-42.5,-6
+2009-12-01,EU,Kitchen & dining,Guest (no ID),479.8,184
+2009-12-01,EU,Bags & storage,New,4638.1,2826
+2009-12-01,EU,Bags & storage,Returning,-0.85,-1
+2009-12-01,EU,Bags & storage,Guest (no ID),88.05,27
+2009-12-01,EU,"Toys, crafts & stationery",New,4897.43,2929
+2009-12-01,EU,"Toys, crafts & stationery",Guest (no ID),56.18,58
+2009-12-01,EU,Home decor,New,13998.23,8817
+2009-12-01,EU,Home decor,Returning,-9.7,-4
+2009-12-01,EU,Home decor,Guest (no ID),508.5,214
+2009-12-01,EU,Other,New,6086.13,3416
+2009-12-01,EU,Other,Returning,-39.65,-7
+2009-12-01,EU,Other,Guest (no ID),145.08,76
+2009-12-01,Rest of world,Christmas & seasonal,New,125.4,83
+2009-12-01,Rest of world,Gifts & accessories,New,230.01,141
+2009-12-01,Rest of world,Candles & lighting,New,202.73,121
+2009-12-01,Rest of world,Candles & lighting,Returning,-3.75,-3
+2009-12-01,Rest of world,Candles & lighting,Guest (no ID),-147.05,-47
+2009-12-01,Rest of world,Party & gift wrap,New,237.66,271
+2009-12-01,Rest of world,Party & gift wrap,Returning,-117.0,-154
+2009-12-01,Rest of world,Kitchen & dining,New,655.95,252
+2009-12-01,Rest of world,Kitchen & dining,Returning,-112.75,-41
+2009-12-01,Rest of world,Bags & storage,New,209.5,128
+2009-12-01,Rest of world,"Toys, crafts & stationery",New,125.91,143
+2009-12-01,Rest of world,Home decor,New,366.04,174
+2009-12-01,Rest of world,Other,New,181.43,59
+2010-01-01,United Kingdom,Christmas & seasonal,New,2622.14,1897
+2010-01-01,United Kingdom,Christmas & seasonal,Returning,3644.72,2852
+2010-01-01,United Kingdom,Christmas & seasonal,Guest (no ID),722.8,251
+2010-01-01,United Kingdom,Gifts & accessories,New,11795.69,4507
+2010-01-01,United Kingdom,Gifts & accessories,Returning,27917.77,10202
+2010-01-01,United Kingdom,Gifts & accessories,Guest (no ID),7194.39,2111
+2010-01-01,United Kingdom,Candles & lighting,New,19167.9,12227
+2010-01-01,United Kingdom,Candles & lighting,Returning,42317.63,25252
+2010-01-01,United Kingdom,Candles & lighting,Guest (no ID),6444.79,1796
+2010-01-01,United Kingdom,Party & gift wrap,New,9690.1,10694
+2010-01-01,United Kingdom,Party & gift wrap,Returning,14533.87,17167
+2010-01-01,United Kingdom,Party & gift wrap,Guest (no ID),2203.55,936
+2010-01-01,United Kingdom,Kitchen & dining,New,29643.58,16652
+2010-01-01,United Kingdom,Kitchen & dining,Returning,51224.94,27132
+2010-01-01,United Kingdom,Kitchen & dining,Guest (no ID),26926.54,5448
+2010-01-01,United Kingdom,Bags & storage,New,7154.85,3774
+2010-01-01,United Kingdom,Bags & storage,Returning,24178.93,13883
+2010-01-01,United Kingdom,Bags & storage,Guest (no ID),4898.5,2276
+2010-01-01,United Kingdom,"Toys, crafts & stationery",New,5752.65,4972
+2010-01-01,United Kingdom,"Toys, crafts & stationery",Returning,7694.3,8424
+2010-01-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),4210.72,1739
+2010-01-01,United Kingdom,Home decor,New,35731.78,18511
+2010-01-01,United Kingdom,Home decor,Returning,76720.87,39916
+2010-01-01,United Kingdom,Home decor,Guest (no ID),16347.4,3961
+2010-01-01,United Kingdom,Other,New,9749.68,4897
+2010-01-01,United Kingdom,Other,Returning,18918.57,10665
+2010-01-01,United Kingdom,Other,Guest (no ID),9492.94,1973
+2010-01-01,EU,Christmas & seasonal,New,442.59,359
+2010-01-01,EU,Christmas & seasonal,Returning,2156.41,1147
+2010-01-01,EU,Gifts & accessories,New,1557.57,574
+2010-01-01,EU,Gifts & accessories,Returning,2544.94,1280
+2010-01-01,EU,Candles & lighting,New,1949.32,996
+2010-01-01,EU,Candles & lighting,Returning,10528.73,12451
+2010-01-01,EU,Party & gift wrap,New,1307.5,1457
+2010-01-01,EU,Party & gift wrap,Returning,8458.12,9619
+2010-01-01,EU,Kitchen & dining,New,7928.4,3926
+2010-01-01,EU,Kitchen & dining,Returning,27191.54,18745
+2010-01-01,EU,Bags & storage,New,1435.1,942
+2010-01-01,EU,Bags & storage,Returning,11156.6,7318
+2010-01-01,EU,"Toys, crafts & stationery",New,721.2,614
+2010-01-01,EU,"Toys, crafts & stationery",Returning,6787.18,18775
+2010-01-01,EU,Home decor,New,3496.81,1659
+2010-01-01,EU,Home decor,Returning,22152.09,20819
+2010-01-01,EU,Other,New,1964.25,887
+2010-01-01,EU,Other,Returning,12006.35,29508
+2010-01-01,Rest of world,Christmas & seasonal,New,88.8,40
+2010-01-01,Rest of world,Gifts & accessories,New,173.0,32
+2010-01-01,Rest of world,Candles & lighting,New,434.5,212
+2010-01-01,Rest of world,Party & gift wrap,New,160.0,76
+2010-01-01,Rest of world,Kitchen & dining,New,1861.05,927
+2010-01-01,Rest of world,Bags & storage,New,205.35,89
+2010-01-01,Rest of world,"Toys, crafts & stationery",New,125.22,87
+2010-01-01,Rest of world,Home decor,New,585.55,193
+2010-01-01,Rest of world,Other,New,512.02,261
+2010-02-01,United Kingdom,Christmas & seasonal,New,3284.42,2175
+2010-02-01,United Kingdom,Christmas & seasonal,Returning,4175.64,3309
+2010-02-01,United Kingdom,Christmas & seasonal,Guest (no ID),374.03,142
+2010-02-01,United Kingdom,Gifts & accessories,New,5457.77,2721
+2010-02-01,United Kingdom,Gifts & accessories,Returning,11122.29,5583
+2010-02-01,United Kingdom,Gifts & accessories,Guest (no ID),2119.29,466
+2010-02-01,United Kingdom,Candles & lighting,New,16561.86,10382
+2010-02-01,United Kingdom,Candles & lighting,Returning,24047.12,14755
+2010-02-01,United Kingdom,Candles & lighting,Guest (no ID),3369.91,954
+2010-02-01,United Kingdom,Party & gift wrap,New,11807.04,11830
+2010-02-01,United Kingdom,Party & gift wrap,Returning,16514.69,16267
+2010-02-01,United Kingdom,Party & gift wrap,Guest (no ID),1951.21,862
+2010-02-01,United Kingdom,Kitchen & dining,New,32712.17,15467
+2010-02-01,United Kingdom,Kitchen & dining,Returning,57796.01,35352
+2010-02-01,United Kingdom,Kitchen & dining,Guest (no ID),11585.16,2059
+2010-02-01,United Kingdom,Bags & storage,New,15270.75,7854
+2010-02-01,United Kingdom,Bags & storage,Returning,28506.4,17250
+2010-02-01,United Kingdom,Bags & storage,Guest (no ID),2400.34,528
+2010-02-01,United Kingdom,"Toys, crafts & stationery",New,8692.51,6879
+2010-02-01,United Kingdom,"Toys, crafts & stationery",Returning,10636.7,9871
+2010-02-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),1601.92,617
+2010-02-01,United Kingdom,Home decor,New,35672.58,17678
+2010-02-01,United Kingdom,Home decor,Returning,85081.38,35645
+2010-02-01,United Kingdom,Home decor,Guest (no ID),9866.9,1937
+2010-02-01,United Kingdom,Other,New,15490.55,8632
+2010-02-01,United Kingdom,Other,Returning,18361.41,9295
+2010-02-01,United Kingdom,Other,Guest (no ID),3899.51,913
+2010-02-01,EU,Christmas & seasonal,New,1327.7,782
+2010-02-01,EU,Christmas & seasonal,Returning,1008.56,1616
+2010-02-01,EU,Christmas & seasonal,Guest (no ID),30.0,8
+2010-02-01,EU,Gifts & accessories,New,467.55,153
+2010-02-01,EU,Gifts & accessories,Returning,2805.43,4228
+2010-02-01,EU,Gifts & accessories,Guest (no ID),25.2,12
+2010-02-01,EU,Candles & lighting,New,832.22,484
+2010-02-01,EU,Candles & lighting,Returning,3915.55,2728
+2010-02-01,EU,Candles & lighting,Guest (no ID),98.6,36
+2010-02-01,EU,Party & gift wrap,New,2070.42,1818
+2010-02-01,EU,Party & gift wrap,Returning,2540.52,2097
+2010-02-01,EU,Kitchen & dining,New,4493.79,5225
+2010-02-01,EU,Kitchen & dining,Returning,17947.38,37497
+2010-02-01,EU,Kitchen & dining,Guest (no ID),570.89,71
+2010-02-01,EU,Bags & storage,New,1508.25,901
+2010-02-01,EU,Bags & storage,Returning,6308.39,11359
+2010-02-01,EU,Bags & storage,Guest (no ID),230.4,64
+2010-02-01,EU,"Toys, crafts & stationery",New,3227.03,2097
+2010-02-01,EU,"Toys, crafts & stationery",Returning,7009.92,24157
+2010-02-01,EU,"Toys, crafts & stationery",Guest (no ID),30.0,24
+2010-02-01,EU,Home decor,New,1784.15,678
+2010-02-01,EU,Home decor,Returning,13181.73,11504
+2010-02-01,EU,Home decor,Guest (no ID),122.9,86
+2010-02-01,EU,Other,New,1392.45,853
+2010-02-01,EU,Other,Returning,9071.91,23877
+2010-02-01,EU,Other,Guest (no ID),214.4,80
+2010-02-01,Rest of world,Christmas & seasonal,New,181.2,136
+2010-02-01,Rest of world,Christmas & seasonal,Guest (no ID),116.7,74
+2010-02-01,Rest of world,Gifts & accessories,Returning,0.0,0
+2010-02-01,Rest of world,Gifts & accessories,Guest (no ID),14.85,3
+2010-02-01,Rest of world,Candles & lighting,New,80.7,42
+2010-02-01,Rest of world,Candles & lighting,Guest (no ID),133.7,46
+2010-02-01,Rest of world,Party & gift wrap,New,499.64,386
+2010-02-01,Rest of world,Party & gift wrap,Returning,66.48,96
+2010-02-01,Rest of world,Party & gift wrap,Guest (no ID),33.72,60
+2010-02-01,Rest of world,Kitchen & dining,New,472.01,203
+2010-02-01,Rest of world,Kitchen & dining,Returning,139.2,80
+2010-02-01,Rest of world,Kitchen & dining,Guest (no ID),148.98,108
+2010-02-01,Rest of world,Bags & storage,New,130.8,48
+2010-02-01,Rest of world,Bags & storage,Returning,738.5,490
+2010-02-01,Rest of world,"Toys, crafts & stationery",New,304.35,257
+2010-02-01,Rest of world,"Toys, crafts & stationery",Returning,41.4,34
+2010-02-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),60.2,52
+2010-02-01,Rest of world,Home decor,New,696.06,402
+2010-02-01,Rest of world,Home decor,Returning,39.6,24
+2010-02-01,Rest of world,Home decor,Guest (no ID),295.3,172
+2010-02-01,Rest of world,Other,New,404.04,212
+2010-02-01,Rest of world,Other,Returning,31.8,4
+2010-02-01,Rest of world,Other,Guest (no ID),130.1,94
+2010-03-01,United Kingdom,Christmas & seasonal,New,2742.57,2101
+2010-03-01,United Kingdom,Christmas & seasonal,Returning,5096.09,3630
+2010-03-01,United Kingdom,Christmas & seasonal,Guest (no ID),4575.89,1219
+2010-03-01,United Kingdom,Gifts & accessories,New,8115.77,5074
+2010-03-01,United Kingdom,Gifts & accessories,Returning,12066.1,7050
+2010-03-01,United Kingdom,Gifts & accessories,Guest (no ID),3962.04,884
+2010-03-01,United Kingdom,Candles & lighting,New,25168.39,15862
+2010-03-01,United Kingdom,Candles & lighting,Returning,43593.87,30433
+2010-03-01,United Kingdom,Candles & lighting,Guest (no ID),7156.9,1831
+2010-03-01,United Kingdom,Party & gift wrap,New,20620.67,16166
+2010-03-01,United Kingdom,Party & gift wrap,Returning,37583.23,68967
+2010-03-01,United Kingdom,Party & gift wrap,Guest (no ID),6190.12,2134
+2010-03-01,United Kingdom,Kitchen & dining,New,33095.78,16667
+2010-03-01,United Kingdom,Kitchen & dining,Returning,78802.56,43530
+2010-03-01,United Kingdom,Kitchen & dining,Guest (no ID),23484.89,4498
+2010-03-01,United Kingdom,Bags & storage,New,14380.74,7573
+2010-03-01,United Kingdom,Bags & storage,Returning,36785.31,20965
+2010-03-01,United Kingdom,Bags & storage,Guest (no ID),5882.86,1437
+2010-03-01,United Kingdom,"Toys, crafts & stationery",New,16068.83,11812
+2010-03-01,United Kingdom,"Toys, crafts & stationery",Returning,17148.44,12941
+2010-03-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),6447.23,1833
+2010-03-01,United Kingdom,Home decor,New,48710.91,25721
+2010-03-01,United Kingdom,Home decor,Returning,112338.97,51660
+2010-03-01,United Kingdom,Home decor,Guest (no ID),25516.21,4610
+2010-03-01,United Kingdom,Other,New,21392.07,17836
+2010-03-01,United Kingdom,Other,Returning,32785.71,21672
+2010-03-01,United Kingdom,Other,Guest (no ID),10389.53,2262
+2010-03-01,EU,Christmas & seasonal,New,67.5,34
+2010-03-01,EU,Christmas & seasonal,Returning,1380.77,1551
+2010-03-01,EU,Gifts & accessories,New,589.45,204
+2010-03-01,EU,Gifts & accessories,Returning,1659.78,670
+2010-03-01,EU,Candles & lighting,New,518.63,425
+2010-03-01,EU,Candles & lighting,Returning,7978.23,6719
+2010-03-01,EU,Party & gift wrap,New,905.67,866
+2010-03-01,EU,Party & gift wrap,Returning,8593.33,56227
+2010-03-01,EU,Kitchen & dining,New,2983.41,1323
+2010-03-01,EU,Kitchen & dining,Returning,17368.04,21021
+2010-03-01,EU,Kitchen & dining,Guest (no ID),151.3,95
+2010-03-01,EU,Bags & storage,New,1553.6,933
+2010-03-01,EU,Bags & storage,Returning,6815.58,4142
+2010-03-01,EU,Bags & storage,Guest (no ID),29.75,3
+2010-03-01,EU,"Toys, crafts & stationery",New,1278.97,1133
+2010-03-01,EU,"Toys, crafts & stationery",Returning,4267.13,3019
+2010-03-01,EU,"Toys, crafts & stationery",Guest (no ID),10.5,5
+2010-03-01,EU,Home decor,New,3162.07,1409
+2010-03-01,EU,Home decor,Returning,19010.24,10170
+2010-03-01,EU,Home decor,Guest (no ID),82.45,33
+2010-03-01,EU,Other,New,1939.18,1160
+2010-03-01,EU,Other,Returning,6367.78,3392
+2010-03-01,Rest of world,Christmas & seasonal,Returning,19.8,12
+2010-03-01,Rest of world,Gifts & accessories,New,375.5,94
+2010-03-01,Rest of world,Gifts & accessories,Returning,50.25,15
+2010-03-01,Rest of world,Candles & lighting,Returning,39.6,24
+2010-03-01,Rest of world,Candles & lighting,Guest (no ID),138.4,38
+2010-03-01,Rest of world,Party & gift wrap,New,130.08,214
+2010-03-01,Rest of world,Party & gift wrap,Returning,15.0,12
+2010-03-01,Rest of world,Party & gift wrap,Guest (no ID),94.2,212
+2010-03-01,Rest of world,Kitchen & dining,New,695.8,575
+2010-03-01,Rest of world,Kitchen & dining,Returning,80.1,30
+2010-03-01,Rest of world,Kitchen & dining,Guest (no ID),582.5,122
+2010-03-01,Rest of world,Bags & storage,New,202.5,116
+2010-03-01,Rest of world,Bags & storage,Returning,88.5,50
+2010-03-01,Rest of world,Bags & storage,Guest (no ID),141.0,80
+2010-03-01,Rest of world,"Toys, crafts & stationery",New,825.66,581
+2010-03-01,Rest of world,"Toys, crafts & stationery",Returning,30.0,24
+2010-03-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),125.7,82
+2010-03-01,Rest of world,Home decor,New,186.2,72
+2010-03-01,Rest of world,Home decor,Returning,95.94,12
+2010-03-01,Rest of world,Home decor,Guest (no ID),88.7,26
+2010-03-01,Rest of world,Other,New,682.52,1154
+2010-03-01,Rest of world,Other,Returning,10.2,12
+2010-03-01,Rest of world,Other,Guest (no ID),588.94,2326
+2010-04-01,United Kingdom,Christmas & seasonal,New,184.51,146
+2010-04-01,United Kingdom,Christmas & seasonal,Returning,274.92,274
+2010-04-01,United Kingdom,Christmas & seasonal,Guest (no ID),374.18,158
+2010-04-01,United Kingdom,Gifts & accessories,New,5509.36,3676
+2010-04-01,United Kingdom,Gifts & accessories,Returning,13385.56,7781
+2010-04-01,United Kingdom,Gifts & accessories,Guest (no ID),2626.3,632
+2010-04-01,United Kingdom,Candles & lighting,New,10468.94,6623
+2010-04-01,United Kingdom,Candles & lighting,Returning,41222.75,25799
+2010-04-01,United Kingdom,Candles & lighting,Guest (no ID),3874.55,2189
+2010-04-01,United Kingdom,Party & gift wrap,New,7673.77,8431
+2010-04-01,United Kingdom,Party & gift wrap,Returning,40775.47,33868
+2010-04-01,United Kingdom,Party & gift wrap,Guest (no ID),3930.89,1050
+2010-04-01,United Kingdom,Kitchen & dining,New,19803.47,9574
+2010-04-01,United Kingdom,Kitchen & dining,Returning,86995.66,44016
+2010-04-01,United Kingdom,Kitchen & dining,Guest (no ID),13616.37,2859
+2010-04-01,United Kingdom,Bags & storage,New,10496.49,5873
+2010-04-01,United Kingdom,Bags & storage,Returning,41819.58,24397
+2010-04-01,United Kingdom,Bags & storage,Guest (no ID),2954.02,790
+2010-04-01,United Kingdom,"Toys, crafts & stationery",New,6438.43,5471
+2010-04-01,United Kingdom,"Toys, crafts & stationery",Returning,20970.89,16641
+2010-04-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2670.3,996
+2010-04-01,United Kingdom,Home decor,New,26058.82,12099
+2010-04-01,United Kingdom,Home decor,Returning,112118.97,51745
+2010-04-01,United Kingdom,Home decor,Guest (no ID),18031.41,2751
+2010-04-01,United Kingdom,Other,New,12679.62,7714
+2010-04-01,United Kingdom,Other,Returning,33885.28,20141
+2010-04-01,United Kingdom,Other,Guest (no ID),7357.96,1289
+2010-04-01,EU,Christmas & seasonal,New,145.56,140
+2010-04-01,EU,Christmas & seasonal,Returning,39.43,97
+2010-04-01,EU,Gifts & accessories,New,300.9,316
+2010-04-01,EU,Gifts & accessories,Returning,2046.42,820
+2010-04-01,EU,Gifts & accessories,Guest (no ID),235.59,65
+2010-04-01,EU,Candles & lighting,New,1070.46,662
+2010-04-01,EU,Candles & lighting,Returning,4375.91,2391
+2010-04-01,EU,Candles & lighting,Guest (no ID),506.76,396
+2010-04-01,EU,Party & gift wrap,New,4544.54,2681
+2010-04-01,EU,Party & gift wrap,Returning,4761.35,4514
+2010-04-01,EU,Party & gift wrap,Guest (no ID),224.41,223
+2010-04-01,EU,Kitchen & dining,New,4279.57,2656
+2010-04-01,EU,Kitchen & dining,Returning,13155.13,8290
+2010-04-01,EU,Kitchen & dining,Guest (no ID),545.67,302
+2010-04-01,EU,Bags & storage,New,1585.2,953
+2010-04-01,EU,Bags & storage,Returning,7993.09,4993
+2010-04-01,EU,Bags & storage,Guest (no ID),77.2,52
+2010-04-01,EU,"Toys, crafts & stationery",New,1727.74,1256
+2010-04-01,EU,"Toys, crafts & stationery",Returning,8717.89,11558
+2010-04-01,EU,"Toys, crafts & stationery",Guest (no ID),139.83,135
+2010-04-01,EU,Home decor,New,2339.59,1198
+2010-04-01,EU,Home decor,Returning,11543.41,5810
+2010-04-01,EU,Home decor,Guest (no ID),1363.89,594
+2010-04-01,EU,Other,New,2214.02,1514
+2010-04-01,EU,Other,Returning,8739.33,7166
+2010-04-01,EU,Other,Guest (no ID),380.95,181
+2010-04-01,Rest of world,Christmas & seasonal,New,53.1,18
+2010-04-01,Rest of world,Gifts & accessories,New,298.7,117
+2010-04-01,Rest of world,Gifts & accessories,Returning,-2.75,-1
+2010-04-01,Rest of world,Gifts & accessories,Guest (no ID),39.0,12
+2010-04-01,Rest of world,Candles & lighting,New,497.32,288
+2010-04-01,Rest of world,Candles & lighting,Returning,79.8,60
+2010-04-01,Rest of world,Party & gift wrap,New,170.43,131
+2010-04-01,Rest of world,Party & gift wrap,Returning,18.0,24
+2010-04-01,Rest of world,Party & gift wrap,Guest (no ID),53.4,60
+2010-04-01,Rest of world,Kitchen & dining,New,834.35,409
+2010-04-01,Rest of world,Kitchen & dining,Returning,263.1,138
+2010-04-01,Rest of world,Kitchen & dining,Guest (no ID),1721.81,1107
+2010-04-01,Rest of world,Bags & storage,New,432.95,249
+2010-04-01,Rest of world,Bags & storage,Returning,388.5,490
+2010-04-01,Rest of world,Bags & storage,Guest (no ID),108.0,60
+2010-04-01,Rest of world,"Toys, crafts & stationery",New,424.38,296
+2010-04-01,Rest of world,"Toys, crafts & stationery",Returning,25.2,24
+2010-04-01,Rest of world,Home decor,New,840.82,300
+2010-04-01,Rest of world,Home decor,Returning,98.0,44
+2010-04-01,Rest of world,Home decor,Guest (no ID),74.4,48
+2010-04-01,Rest of world,Other,New,325.95,129
+2010-04-01,Rest of world,Other,Returning,78.9,38
+2010-04-01,Rest of world,Other,Guest (no ID),240.0,80
+2010-05-01,United Kingdom,Christmas & seasonal,New,447.08,301
+2010-05-01,United Kingdom,Christmas & seasonal,Returning,556.35,811
+2010-05-01,United Kingdom,Christmas & seasonal,Guest (no ID),233.38,196
+2010-05-01,United Kingdom,Gifts & accessories,New,2878.34,1704
+2010-05-01,United Kingdom,Gifts & accessories,Returning,13148.85,12254
+2010-05-01,United Kingdom,Gifts & accessories,Guest (no ID),2231.73,499
+2010-05-01,United Kingdom,Candles & lighting,New,9443.57,9228
+2010-05-01,United Kingdom,Candles & lighting,Returning,24300.51,24920
+2010-05-01,United Kingdom,Candles & lighting,Guest (no ID),3933.47,1118
+2010-05-01,United Kingdom,Party & gift wrap,New,7367.36,7435
+2010-05-01,United Kingdom,Party & gift wrap,Returning,46368.07,43753
+2010-05-01,United Kingdom,Party & gift wrap,Guest (no ID),3772.96,1150
+2010-05-01,United Kingdom,Kitchen & dining,New,17793.26,11592
+2010-05-01,United Kingdom,Kitchen & dining,Returning,81858.03,43246
+2010-05-01,United Kingdom,Kitchen & dining,Guest (no ID),11455.91,1969
+2010-05-01,United Kingdom,Bags & storage,New,7886.67,5011
+2010-05-01,United Kingdom,Bags & storage,Returning,41721.62,25133
+2010-05-01,United Kingdom,Bags & storage,Guest (no ID),2817.0,710
+2010-05-01,United Kingdom,"Toys, crafts & stationery",New,6271.75,4917
+2010-05-01,United Kingdom,"Toys, crafts & stationery",Returning,31908.11,25721
+2010-05-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2552.83,887
+2010-05-01,United Kingdom,Home decor,New,20510.15,11716
+2010-05-01,United Kingdom,Home decor,Returning,102018.2,48053
+2010-05-01,United Kingdom,Home decor,Guest (no ID),11668.08,2435
+2010-05-01,United Kingdom,Other,New,14729.42,12795
+2010-05-01,United Kingdom,Other,Returning,36008.02,22343
+2010-05-01,United Kingdom,Other,Guest (no ID),11163.13,1435
+2010-05-01,EU,Christmas & seasonal,New,20.4,8
+2010-05-01,EU,Christmas & seasonal,Returning,414.36,436
+2010-05-01,EU,Gifts & accessories,New,278.57,148
+2010-05-01,EU,Gifts & accessories,Returning,1744.75,736
+2010-05-01,EU,Candles & lighting,New,1116.84,708
+2010-05-01,EU,Candles & lighting,Returning,5524.93,4533
+2010-05-01,EU,Candles & lighting,Guest (no ID),28.5,14
+2010-05-01,EU,Party & gift wrap,New,736.55,825
+2010-05-01,EU,Party & gift wrap,Returning,4204.3,4520
+2010-05-01,EU,Party & gift wrap,Guest (no ID),58.02,54
+2010-05-01,EU,Kitchen & dining,New,2065.71,1096
+2010-05-01,EU,Kitchen & dining,Returning,18647.83,8990
+2010-05-01,EU,Kitchen & dining,Guest (no ID),274.25,199
+2010-05-01,EU,Bags & storage,New,573.15,316
+2010-05-01,EU,Bags & storage,Returning,7899.8,4508
+2010-05-01,EU,Bags & storage,Guest (no ID),17.0,2
+2010-05-01,EU,"Toys, crafts & stationery",New,559.67,723
+2010-05-01,EU,"Toys, crafts & stationery",Returning,3998.81,6842
+2010-05-01,EU,"Toys, crafts & stationery",Guest (no ID),39.35,11
+2010-05-01,EU,Home decor,New,1006.32,478
+2010-05-01,EU,Home decor,Returning,16066.59,7976
+2010-05-01,EU,Home decor,Guest (no ID),118.1,30
+2010-05-01,EU,Other,New,1340.78,718
+2010-05-01,EU,Other,Returning,7064.1,3882
+2010-05-01,EU,Other,Guest (no ID),88.8,40
+2010-05-01,Rest of world,Christmas & seasonal,New,48.15,15
+2010-05-01,Rest of world,Gifts & accessories,New,1104.25,421
+2010-05-01,Rest of world,Gifts & accessories,Returning,67.6,8
+2010-05-01,Rest of world,Candles & lighting,New,2038.22,1596
+2010-05-01,Rest of world,Candles & lighting,Returning,360.53,207
+2010-05-01,Rest of world,Party & gift wrap,New,1010.3,1078
+2010-05-01,Rest of world,Party & gift wrap,Returning,256.62,254
+2010-05-01,Rest of world,Kitchen & dining,New,2948.08,1478
+2010-05-01,Rest of world,Kitchen & dining,Returning,497.83,389
+2010-05-01,Rest of world,Kitchen & dining,Guest (no ID),82.9,46
+2010-05-01,Rest of world,Bags & storage,New,901.6,433
+2010-05-01,Rest of world,Bags & storage,Returning,604.05,203
+2010-05-01,Rest of world,"Toys, crafts & stationery",New,731.92,690
+2010-05-01,Rest of world,"Toys, crafts & stationery",Returning,334.75,119
+2010-05-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),14.85,3
+2010-05-01,Rest of world,Home decor,New,2934.37,1289
+2010-05-01,Rest of world,Home decor,Returning,1408.4,304
+2010-05-01,Rest of world,Other,New,1527.45,1013
+2010-05-01,Rest of world,Other,Returning,495.94,214
+2010-06-01,United Kingdom,Christmas & seasonal,New,1030.58,663
+2010-06-01,United Kingdom,Christmas & seasonal,Returning,721.63,852
+2010-06-01,United Kingdom,Christmas & seasonal,Guest (no ID),210.94,107
+2010-06-01,United Kingdom,Gifts & accessories,New,3187.24,1997
+2010-06-01,United Kingdom,Gifts & accessories,Returning,28145.93,18134
+2010-06-01,United Kingdom,Gifts & accessories,Guest (no ID),3733.9,1089
+2010-06-01,United Kingdom,Candles & lighting,New,9457.91,6927
+2010-06-01,United Kingdom,Candles & lighting,Returning,36083.56,27727
+2010-06-01,United Kingdom,Candles & lighting,Guest (no ID),4314.64,1246
+2010-06-01,United Kingdom,Party & gift wrap,New,8277.63,8327
+2010-06-01,United Kingdom,Party & gift wrap,Returning,39699.98,37034
+2010-06-01,United Kingdom,Party & gift wrap,Guest (no ID),6212.1,1984
+2010-06-01,United Kingdom,Kitchen & dining,New,20543.82,9597
+2010-06-01,United Kingdom,Kitchen & dining,Returning,97825.37,47997
+2010-06-01,United Kingdom,Kitchen & dining,Guest (no ID),18684.16,3281
+2010-06-01,United Kingdom,Bags & storage,New,13346.0,8143
+2010-06-01,United Kingdom,Bags & storage,Returning,44915.62,26490
+2010-06-01,United Kingdom,Bags & storage,Guest (no ID),5524.69,1505
+2010-06-01,United Kingdom,"Toys, crafts & stationery",New,11050.68,9385
+2010-06-01,United Kingdom,"Toys, crafts & stationery",Returning,21380.15,16790
+2010-06-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),3097.34,1178
+2010-06-01,United Kingdom,Home decor,New,24423.25,12307
+2010-06-01,United Kingdom,Home decor,Returning,102087.82,52080
+2010-06-01,United Kingdom,Home decor,Guest (no ID),16185.01,3640
+2010-06-01,United Kingdom,Other,New,13455.53,8709
+2010-06-01,United Kingdom,Other,Returning,34344.8,23032
+2010-06-01,United Kingdom,Other,Guest (no ID),7472.17,1590
+2010-06-01,EU,Christmas & seasonal,New,27.9,18
+2010-06-01,EU,Christmas & seasonal,Returning,396.2,352
+2010-06-01,EU,Gifts & accessories,New,421.1,261
+2010-06-01,EU,Gifts & accessories,Returning,1235.65,602
+2010-06-01,EU,Candles & lighting,New,584.66,346
+2010-06-01,EU,Candles & lighting,Returning,5512.82,3596
+2010-06-01,EU,Party & gift wrap,New,773.54,1001
+2010-06-01,EU,Party & gift wrap,Returning,4786.63,4825
+2010-06-01,EU,Kitchen & dining,New,1941.86,1215
+2010-06-01,EU,Kitchen & dining,Returning,21899.55,10809
+2010-06-01,EU,Bags & storage,New,1478.04,861
+2010-06-01,EU,Bags & storage,Returning,9261.8,5492
+2010-06-01,EU,"Toys, crafts & stationery",New,1197.19,869
+2010-06-01,EU,"Toys, crafts & stationery",Returning,7604.84,4438
+2010-06-01,EU,Home decor,New,1723.41,851
+2010-06-01,EU,Home decor,Returning,15360.74,8856
+2010-06-01,EU,Other,New,1635.94,1074
+2010-06-01,EU,Other,Returning,7543.19,4863
+2010-06-01,Rest of world,Christmas & seasonal,New,106.2,36
+2010-06-01,Rest of world,Gifts & accessories,New,196.2,60
+2010-06-01,Rest of world,Gifts & accessories,Returning,27.15,57
+2010-06-01,Rest of world,Candles & lighting,New,377.4,268
+2010-06-01,Rest of world,Candles & lighting,Returning,308.7,162
+2010-06-01,Rest of world,Candles & lighting,Guest (no ID),217.2,112
+2010-06-01,Rest of world,Party & gift wrap,New,1133.38,1547
+2010-06-01,Rest of world,Party & gift wrap,Returning,21.0,50
+2010-06-01,Rest of world,Party & gift wrap,Guest (no ID),229.2,168
+2010-06-01,Rest of world,Kitchen & dining,New,1228.73,948
+2010-06-01,Rest of world,Kitchen & dining,Returning,35.4,12
+2010-06-01,Rest of world,Kitchen & dining,Guest (no ID),451.49,159
+2010-06-01,Rest of world,Bags & storage,New,1098.85,593
+2010-06-01,Rest of world,Bags & storage,Returning,81.03,33
+2010-06-01,Rest of world,Bags & storage,Guest (no ID),288.0,160
+2010-06-01,Rest of world,"Toys, crafts & stationery",New,1172.91,1067
+2010-06-01,Rest of world,"Toys, crafts & stationery",Returning,20.4,24
+2010-06-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),100.84,56
+2010-06-01,Rest of world,Home decor,New,918.04,534
+2010-06-01,Rest of world,Home decor,Returning,38.31,33
+2010-06-01,Rest of world,Home decor,Guest (no ID),35.7,6
+2010-06-01,Rest of world,Other,New,2284.6,1984
+2010-06-01,Rest of world,Other,Returning,133.99,137
+2010-06-01,Rest of world,Other,Guest (no ID),826.5,502
+2010-07-01,United Kingdom,Christmas & seasonal,New,1048.42,990
+2010-07-01,United Kingdom,Christmas & seasonal,Returning,4131.9,4197
+2010-07-01,United Kingdom,Christmas & seasonal,Guest (no ID),232.6,110
+2010-07-01,United Kingdom,Gifts & accessories,New,2249.38,1618
+2010-07-01,United Kingdom,Gifts & accessories,Returning,17404.79,10041
+2010-07-01,United Kingdom,Gifts & accessories,Guest (no ID),2973.77,933
+2010-07-01,United Kingdom,Candles & lighting,New,3925.6,3634
+2010-07-01,United Kingdom,Candles & lighting,Returning,38010.21,25642
+2010-07-01,United Kingdom,Candles & lighting,Guest (no ID),4226.94,1459
+2010-07-01,United Kingdom,Party & gift wrap,New,4460.01,5097
+2010-07-01,United Kingdom,Party & gift wrap,Returning,33785.39,33850
+2010-07-01,United Kingdom,Party & gift wrap,Guest (no ID),3812.79,1171
+2010-07-01,United Kingdom,Kitchen & dining,New,13646.41,5713
+2010-07-01,United Kingdom,Kitchen & dining,Returning,103856.65,48023
+2010-07-01,United Kingdom,Kitchen & dining,Guest (no ID),14572.51,2563
+2010-07-01,United Kingdom,Bags & storage,New,4635.53,2117
+2010-07-01,United Kingdom,Bags & storage,Returning,53422.95,30243
+2010-07-01,United Kingdom,Bags & storage,Guest (no ID),3643.29,918
+2010-07-01,United Kingdom,"Toys, crafts & stationery",New,3719.45,3176
+2010-07-01,United Kingdom,"Toys, crafts & stationery",Returning,22396.99,16233
+2010-07-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2090.26,713
+2010-07-01,United Kingdom,Home decor,New,13435.97,6791
+2010-07-01,United Kingdom,Home decor,Returning,130786.1,56630
+2010-07-01,United Kingdom,Home decor,Guest (no ID),12294.47,2387
+2010-07-01,United Kingdom,Other,New,5374.7,3616
+2010-07-01,United Kingdom,Other,Returning,31135.42,17292
+2010-07-01,United Kingdom,Other,Guest (no ID),4381.78,994
+2010-07-01,EU,Christmas & seasonal,New,61.2,24
+2010-07-01,EU,Christmas & seasonal,Returning,1687.98,1792
+2010-07-01,EU,Christmas & seasonal,Guest (no ID),50.2,44
+2010-07-01,EU,Gifts & accessories,New,614.92,332
+2010-07-01,EU,Gifts & accessories,Returning,1895.23,1234
+2010-07-01,EU,Gifts & accessories,Guest (no ID),58.05,15
+2010-07-01,EU,Candles & lighting,New,308.0,160
+2010-07-01,EU,Candles & lighting,Returning,3210.79,1919
+2010-07-01,EU,Candles & lighting,Guest (no ID),134.16,108
+2010-07-01,EU,Party & gift wrap,New,959.61,1580
+2010-07-01,EU,Party & gift wrap,Returning,4692.35,5083
+2010-07-01,EU,Party & gift wrap,Guest (no ID),393.91,307
+2010-07-01,EU,Kitchen & dining,New,3407.24,1510
+2010-07-01,EU,Kitchen & dining,Returning,22692.26,9429
+2010-07-01,EU,Kitchen & dining,Guest (no ID),979.86,507
+2010-07-01,EU,Bags & storage,New,1126.6,534
+2010-07-01,EU,Bags & storage,Returning,5900.9,2452
+2010-07-01,EU,Bags & storage,Guest (no ID),152.35,83
+2010-07-01,EU,"Toys, crafts & stationery",New,1827.08,1631
+2010-07-01,EU,"Toys, crafts & stationery",Returning,3531.85,2678
+2010-07-01,EU,"Toys, crafts & stationery",Guest (no ID),324.61,279
+2010-07-01,EU,Home decor,New,1542.07,622
+2010-07-01,EU,Home decor,Returning,6331.1,3077
+2010-07-01,EU,Home decor,Guest (no ID),905.17,385
+2010-07-01,EU,Other,New,2310.66,1636
+2010-07-01,EU,Other,Returning,7419.04,4180
+2010-07-01,EU,Other,Guest (no ID),148.92,81
+2010-07-01,Rest of world,Gifts & accessories,New,38.9,14
+2010-07-01,Rest of world,Gifts & accessories,Returning,264.6,152
+2010-07-01,Rest of world,Candles & lighting,New,30.6,36
+2010-07-01,Rest of world,Candles & lighting,Returning,293.95,159
+2010-07-01,Rest of world,Party & gift wrap,Returning,540.75,354
+2010-07-01,Rest of world,Kitchen & dining,New,733.28,282
+2010-07-01,Rest of world,Kitchen & dining,Returning,2652.28,1158
+2010-07-01,Rest of world,Bags & storage,New,65.2,44
+2010-07-01,Rest of world,Bags & storage,Returning,163.6,78
+2010-07-01,Rest of world,"Toys, crafts & stationery",New,306.48,180
+2010-07-01,Rest of world,"Toys, crafts & stationery",Returning,191.2,98
+2010-07-01,Rest of world,Home decor,New,490.7,250
+2010-07-01,Rest of world,Home decor,Returning,821.87,359
+2010-07-01,Rest of world,Other,New,526.2,84
+2010-07-01,Rest of world,Other,Returning,418.23,487
+2010-08-01,United Kingdom,Christmas & seasonal,New,2507.2,2294
+2010-08-01,United Kingdom,Christmas & seasonal,Returning,11497.72,10334
+2010-08-01,United Kingdom,Christmas & seasonal,Guest (no ID),778.54,266
+2010-08-01,United Kingdom,Gifts & accessories,New,3087.84,1271
+2010-08-01,United Kingdom,Gifts & accessories,Returning,18176.38,8003
+2010-08-01,United Kingdom,Gifts & accessories,Guest (no ID),3244.15,1099
+2010-08-01,United Kingdom,Candles & lighting,New,4895.67,3433
+2010-08-01,United Kingdom,Candles & lighting,Returning,36392.23,27607
+2010-08-01,United Kingdom,Candles & lighting,Guest (no ID),4010.94,1170
+2010-08-01,United Kingdom,Party & gift wrap,New,4660.43,5691
+2010-08-01,United Kingdom,Party & gift wrap,Returning,27267.06,31776
+2010-08-01,United Kingdom,Party & gift wrap,Guest (no ID),11396.57,2113
+2010-08-01,United Kingdom,Kitchen & dining,New,9949.97,4971
+2010-08-01,United Kingdom,Kitchen & dining,Returning,92690.34,52098
+2010-08-01,United Kingdom,Kitchen & dining,Guest (no ID),18590.6,3757
+2010-08-01,United Kingdom,Bags & storage,New,4228.09,2033
+2010-08-01,United Kingdom,Bags & storage,Returning,54011.17,31300
+2010-08-01,United Kingdom,Bags & storage,Guest (no ID),17751.81,4865
+2010-08-01,United Kingdom,"Toys, crafts & stationery",New,5080.5,4260
+2010-08-01,United Kingdom,"Toys, crafts & stationery",Returning,27852.45,22343
+2010-08-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2500.83,907
+2010-08-01,United Kingdom,Home decor,New,13097.43,6838
+2010-08-01,United Kingdom,Home decor,Returning,141121.27,68448
+2010-08-01,United Kingdom,Home decor,Guest (no ID),12672.75,2716
+2010-08-01,United Kingdom,Other,New,6038.77,3497
+2010-08-01,United Kingdom,Other,Returning,29789.84,20985
+2010-08-01,United Kingdom,Other,Guest (no ID),5449.7,1549
+2010-08-01,EU,Christmas & seasonal,New,327.87,293
+2010-08-01,EU,Christmas & seasonal,Returning,1789.93,2267
+2010-08-01,EU,Christmas & seasonal,Guest (no ID),17.7,6
+2010-08-01,EU,Gifts & accessories,New,103.2,47
+2010-08-01,EU,Gifts & accessories,Returning,2744.11,2745
+2010-08-01,EU,Gifts & accessories,Guest (no ID),348.75,87
+2010-08-01,EU,Candles & lighting,New,328.65,191
+2010-08-01,EU,Candles & lighting,Returning,6834.85,10251
+2010-08-01,EU,Candles & lighting,Guest (no ID),214.1,91
+2010-08-01,EU,Party & gift wrap,New,619.67,509
+2010-08-01,EU,Party & gift wrap,Returning,6568.21,24282
+2010-08-01,EU,Party & gift wrap,Guest (no ID),251.29,203
+2010-08-01,EU,Kitchen & dining,New,1294.53,781
+2010-08-01,EU,Kitchen & dining,Returning,23629.48,43233
+2010-08-01,EU,Kitchen & dining,Guest (no ID),586.6,220
+2010-08-01,EU,Bags & storage,New,164.04,87
+2010-08-01,EU,Bags & storage,Returning,6265.2,8413
+2010-08-01,EU,Bags & storage,Guest (no ID),121.75,53
+2010-08-01,EU,"Toys, crafts & stationery",New,566.29,593
+2010-08-01,EU,"Toys, crafts & stationery",Returning,6930.1,17516
+2010-08-01,EU,"Toys, crafts & stationery",Guest (no ID),373.11,191
+2010-08-01,EU,Home decor,New,1135.29,533
+2010-08-01,EU,Home decor,Returning,13557.61,9195
+2010-08-01,EU,Home decor,Guest (no ID),620.05,217
+2010-08-01,EU,Other,New,734.34,402
+2010-08-01,EU,Other,Returning,10096.95,13270
+2010-08-01,EU,Other,Guest (no ID),453.0,228
+2010-08-01,Rest of world,Christmas & seasonal,New,37.16,36
+2010-08-01,Rest of world,Christmas & seasonal,Returning,520.74,538
+2010-08-01,Rest of world,Gifts & accessories,New,48.76,52
+2010-08-01,Rest of world,Gifts & accessories,Returning,219.4,54
+2010-08-01,Rest of world,Candles & lighting,New,346.25,665
+2010-08-01,Rest of world,Candles & lighting,Returning,433.05,217
+2010-08-01,Rest of world,Party & gift wrap,New,191.62,202
+2010-08-01,Rest of world,Party & gift wrap,Returning,180.31,217
+2010-08-01,Rest of world,Kitchen & dining,New,80.25,51
+2010-08-01,Rest of world,Kitchen & dining,Returning,748.25,279
+2010-08-01,Rest of world,Bags & storage,New,112.3,74
+2010-08-01,Rest of world,Bags & storage,Returning,882.2,520
+2010-08-01,Rest of world,"Toys, crafts & stationery",New,90.47,98
+2010-08-01,Rest of world,"Toys, crafts & stationery",Returning,281.0,316
+2010-08-01,Rest of world,Home decor,New,89.93,39
+2010-08-01,Rest of world,Home decor,Returning,1412.44,521
+2010-08-01,Rest of world,Other,New,150.25,71
+2010-08-01,Rest of world,Other,Returning,398.82,190
+2010-09-01,United Kingdom,Christmas & seasonal,New,8681.56,6814
+2010-09-01,United Kingdom,Christmas & seasonal,Returning,43678.42,34030
+2010-09-01,United Kingdom,Christmas & seasonal,Guest (no ID),1898.7,706
+2010-09-01,United Kingdom,Gifts & accessories,New,4863.3,4200
+2010-09-01,United Kingdom,Gifts & accessories,Returning,34335.83,26285
+2010-09-01,United Kingdom,Gifts & accessories,Guest (no ID),4066.69,875
+2010-09-01,United Kingdom,Candles & lighting,New,8648.07,12422
+2010-09-01,United Kingdom,Candles & lighting,Returning,49370.32,29276
+2010-09-01,United Kingdom,Candles & lighting,Guest (no ID),5021.31,1679
+2010-09-01,United Kingdom,Party & gift wrap,New,13957.99,26740
+2010-09-01,United Kingdom,Party & gift wrap,Returning,38972.92,40437
+2010-09-01,United Kingdom,Party & gift wrap,Guest (no ID),3274.79,1307
+2010-09-01,United Kingdom,Kitchen & dining,New,34839.94,44585
+2010-09-01,United Kingdom,Kitchen & dining,Returning,93609.55,45526
+2010-09-01,United Kingdom,Kitchen & dining,Guest (no ID),17471.41,3385
+2010-09-01,United Kingdom,Bags & storage,New,7570.02,8215
+2010-09-01,United Kingdom,Bags & storage,Returning,62929.08,36731
+2010-09-01,United Kingdom,Bags & storage,Guest (no ID),10719.68,2724
+2010-09-01,United Kingdom,"Toys, crafts & stationery",New,8718.76,20173
+2010-09-01,United Kingdom,"Toys, crafts & stationery",Returning,33757.13,24952
+2010-09-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2907.43,898
+2010-09-01,United Kingdom,Home decor,New,33380.24,15789
+2010-09-01,United Kingdom,Home decor,Returning,118639.02,60470
+2010-09-01,United Kingdom,Home decor,Guest (no ID),11823.56,2589
+2010-09-01,United Kingdom,Other,New,23376.69,18504
+2010-09-01,United Kingdom,Other,Returning,34741.59,20272
+2010-09-01,United Kingdom,Other,Guest (no ID),5023.26,1394
+2010-09-01,EU,Christmas & seasonal,New,48.84,72
+2010-09-01,EU,Christmas & seasonal,Returning,7319.84,6453
+2010-09-01,EU,Gifts & accessories,New,161.31,81
+2010-09-01,EU,Gifts & accessories,Returning,3715.24,-386
+2010-09-01,EU,Candles & lighting,New,494.08,260
+2010-09-01,EU,Candles & lighting,Returning,5577.24,-3182
+2010-09-01,EU,Candles & lighting,Guest (no ID),30.6,36
+2010-09-01,EU,Party & gift wrap,New,708.64,964
+2010-09-01,EU,Party & gift wrap,Returning,4475.98,-12444
+2010-09-01,EU,Party & gift wrap,Guest (no ID),33.24,43
+2010-09-01,EU,Kitchen & dining,New,2097.44,1385
+2010-09-01,EU,Kitchen & dining,Returning,22529.57,-17448
+2010-09-01,EU,Kitchen & dining,Guest (no ID),283.2,88
+2010-09-01,EU,Bags & storage,New,845.54,523
+2010-09-01,EU,Bags & storage,Returning,11782.47,3776
+2010-09-01,EU,Bags & storage,Guest (no ID),39.0,20
+2010-09-01,EU,"Toys, crafts & stationery",New,781.28,667
+2010-09-01,EU,"Toys, crafts & stationery",Returning,11002.62,-4429
+2010-09-01,EU,"Toys, crafts & stationery",Guest (no ID),30.3,12
+2010-09-01,EU,Home decor,New,913.78,611
+2010-09-01,EU,Home decor,Returning,23901.38,12001
+2010-09-01,EU,Home decor,Guest (no ID),131.5,74
+2010-09-01,EU,Other,New,1117.49,719
+2010-09-01,EU,Other,Returning,10375.59,-1575
+2010-09-01,EU,Other,Guest (no ID),37.5,18
+2010-09-01,Rest of world,Christmas & seasonal,New,217.35,141
+2010-09-01,Rest of world,Christmas & seasonal,Returning,1233.37,623
+2010-09-01,Rest of world,Gifts & accessories,New,175.94,146
+2010-09-01,Rest of world,Gifts & accessories,Returning,346.4,134
+2010-09-01,Rest of world,Gifts & accessories,Guest (no ID),43.68,120
+2010-09-01,Rest of world,Candles & lighting,New,192.34,166
+2010-09-01,Rest of world,Candles & lighting,Returning,645.04,390
+2010-09-01,Rest of world,Party & gift wrap,New,687.48,735
+2010-09-01,Rest of world,Party & gift wrap,Returning,1390.49,1308
+2010-09-01,Rest of world,Kitchen & dining,New,1110.5,508
+2010-09-01,Rest of world,Kitchen & dining,Returning,2912.65,1051
+2010-09-01,Rest of world,Kitchen & dining,Guest (no ID),62.25,15
+2010-09-01,Rest of world,Bags & storage,New,763.5,306
+2010-09-01,Rest of world,Bags & storage,Returning,449.35,246
+2010-09-01,Rest of world,Bags & storage,Guest (no ID),77.99,33
+2010-09-01,Rest of world,"Toys, crafts & stationery",New,391.48,222
+2010-09-01,Rest of world,"Toys, crafts & stationery",Returning,412.68,439
+2010-09-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),185.16,202
+2010-09-01,Rest of world,Home decor,New,606.17,374
+2010-09-01,Rest of world,Home decor,Returning,1878.78,944
+2010-09-01,Rest of world,Home decor,Guest (no ID),61.98,126
+2010-09-01,Rest of world,Other,New,1434.91,637
+2010-09-01,Rest of world,Other,Returning,1417.4,804
+2010-09-01,Rest of world,Other,Guest (no ID),148.88,132
+2010-10-01,United Kingdom,Christmas & seasonal,New,18355.26,13649
+2010-10-01,United Kingdom,Christmas & seasonal,Returning,69885.83,48662
+2010-10-01,United Kingdom,Christmas & seasonal,Guest (no ID),6389.51,2615
+2010-10-01,United Kingdom,Gifts & accessories,New,7970.04,3373
+2010-10-01,United Kingdom,Gifts & accessories,Returning,63527.22,29673
+2010-10-01,United Kingdom,Gifts & accessories,Guest (no ID),8361.68,1651
+2010-10-01,United Kingdom,Candles & lighting,New,12874.24,6799
+2010-10-01,United Kingdom,Candles & lighting,Returning,63077.15,38057
+2010-10-01,United Kingdom,Candles & lighting,Guest (no ID),6392.62,1581
+2010-10-01,United Kingdom,Party & gift wrap,New,11141.94,11203
+2010-10-01,United Kingdom,Party & gift wrap,Returning,44003.19,46698
+2010-10-01,United Kingdom,Party & gift wrap,Guest (no ID),3320.7,1324
+2010-10-01,United Kingdom,Kitchen & dining,New,27660.14,10888
+2010-10-01,United Kingdom,Kitchen & dining,Returning,127806.89,59510
+2010-10-01,United Kingdom,Kitchen & dining,Guest (no ID),16557.8,3341
+2010-10-01,United Kingdom,Bags & storage,New,7121.05,3298
+2010-10-01,United Kingdom,Bags & storage,Returning,48327.76,28207
+2010-10-01,United Kingdom,Bags & storage,Guest (no ID),9700.51,2637
+2010-10-01,United Kingdom,"Toys, crafts & stationery",New,13605.16,9470
+2010-10-01,United Kingdom,"Toys, crafts & stationery",Returning,49962.72,36551
+2010-10-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),4277.92,1495
+2010-10-01,United Kingdom,Home decor,New,34000.59,16758
+2010-10-01,United Kingdom,Home decor,Returning,180155.05,84221
+2010-10-01,United Kingdom,Home decor,Guest (no ID),14483.71,3685
+2010-10-01,United Kingdom,Other,New,15772.78,9597
+2010-10-01,United Kingdom,Other,Returning,54726.25,38559
+2010-10-01,United Kingdom,Other,Guest (no ID),5583.68,1285
+2010-10-01,EU,Christmas & seasonal,New,1819.38,1251
+2010-10-01,EU,Christmas & seasonal,Returning,10407.82,8535
+2010-10-01,EU,Christmas & seasonal,Guest (no ID),499.5,346
+2010-10-01,EU,Gifts & accessories,New,697.2,240
+2010-10-01,EU,Gifts & accessories,Returning,5416.28,2292
+2010-10-01,EU,Gifts & accessories,Guest (no ID),229.5,90
+2010-10-01,EU,Candles & lighting,New,773.5,460
+2010-10-01,EU,Candles & lighting,Returning,5148.3,3056
+2010-10-01,EU,Candles & lighting,Guest (no ID),617.64,364
+2010-10-01,EU,Party & gift wrap,New,2612.03,2348
+2010-10-01,EU,Party & gift wrap,Returning,8480.07,10577
+2010-10-01,EU,Party & gift wrap,Guest (no ID),186.3,174
+2010-10-01,EU,Kitchen & dining,New,2957.2,1692
+2010-10-01,EU,Kitchen & dining,Returning,28427.97,12585
+2010-10-01,EU,Kitchen & dining,Guest (no ID),2126.75,505
+2010-10-01,EU,Bags & storage,New,929.1,337
+2010-10-01,EU,Bags & storage,Returning,4586.63,2978
+2010-10-01,EU,Bags & storage,Guest (no ID),99.7,22
+2010-10-01,EU,"Toys, crafts & stationery",New,1619.96,907
+2010-10-01,EU,"Toys, crafts & stationery",Returning,8388.15,9145
+2010-10-01,EU,"Toys, crafts & stationery",Guest (no ID),783.29,487
+2010-10-01,EU,Home decor,New,4167.12,2546
+2010-10-01,EU,Home decor,Returning,19242.72,10775
+2010-10-01,EU,Home decor,Guest (no ID),1284.61,601
+2010-10-01,EU,Other,New,1892.1,1160
+2010-10-01,EU,Other,Returning,9770.58,5436
+2010-10-01,EU,Other,Guest (no ID),291.3,150
+2010-10-01,Rest of world,Christmas & seasonal,New,72.3,45
+2010-10-01,Rest of world,Christmas & seasonal,Returning,1328.89,1107
+2010-10-01,Rest of world,Gifts & accessories,New,287.15,137
+2010-10-01,Rest of world,Gifts & accessories,Returning,1109.33,474
+2010-10-01,Rest of world,Gifts & accessories,Guest (no ID),24.7,6
+2010-10-01,Rest of world,Candles & lighting,New,145.95,81
+2010-10-01,Rest of world,Candles & lighting,Returning,1147.46,564
+2010-10-01,Rest of world,Candles & lighting,Guest (no ID),2.9,2
+2010-10-01,Rest of world,Party & gift wrap,New,381.21,489
+2010-10-01,Rest of world,Party & gift wrap,Returning,1179.86,965
+2010-10-01,Rest of world,Kitchen & dining,New,911.87,737
+2010-10-01,Rest of world,Kitchen & dining,Returning,1926.08,857
+2010-10-01,Rest of world,Kitchen & dining,Guest (no ID),1062.49,811
+2010-10-01,Rest of world,Bags & storage,New,365.8,216
+2010-10-01,Rest of world,Bags & storage,Returning,2712.9,1777
+2010-10-01,Rest of world,Bags & storage,Guest (no ID),333.75,201
+2010-10-01,Rest of world,"Toys, crafts & stationery",New,1257.99,2107
+2010-10-01,Rest of world,"Toys, crafts & stationery",Returning,1124.88,737
+2010-10-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),4.4,2
+2010-10-01,Rest of world,Home decor,New,656.91,665
+2010-10-01,Rest of world,Home decor,Returning,3062.62,939
+2010-10-01,Rest of world,Home decor,Guest (no ID),2.5,2
+2010-10-01,Rest of world,Other,New,704.13,931
+2010-10-01,Rest of world,Other,Returning,654.68,402
+2010-10-01,Rest of world,Other,Guest (no ID),4.55,3
+2010-11-01,United Kingdom,Christmas & seasonal,New,11783.5,9013
+2010-11-01,United Kingdom,Christmas & seasonal,Returning,76495.09,51052
+2010-11-01,United Kingdom,Christmas & seasonal,Guest (no ID),54396.37,15625
+2010-11-01,United Kingdom,Gifts & accessories,New,11261.55,5301
+2010-11-01,United Kingdom,Gifts & accessories,Returning,97091.42,45966
+2010-11-01,United Kingdom,Gifts & accessories,Guest (no ID),27640.91,4845
+2010-11-01,United Kingdom,Candles & lighting,New,13220.52,7662
+2010-11-01,United Kingdom,Candles & lighting,Returning,92405.05,54017
+2010-11-01,United Kingdom,Candles & lighting,Guest (no ID),17446.7,4378
+2010-11-01,United Kingdom,Party & gift wrap,New,10607.55,12504
+2010-11-01,United Kingdom,Party & gift wrap,Returning,39662.8,40736
+2010-11-01,United Kingdom,Party & gift wrap,Guest (no ID),16308.54,6287
+2010-11-01,United Kingdom,Kitchen & dining,New,20954.4,10026
+2010-11-01,United Kingdom,Kitchen & dining,Returning,139916.55,66215
+2010-11-01,United Kingdom,Kitchen & dining,Guest (no ID),50915.12,11240
+2010-11-01,United Kingdom,Bags & storage,New,5768.78,2817
+2010-11-01,United Kingdom,Bags & storage,Returning,58152.68,34994
+2010-11-01,United Kingdom,Bags & storage,Guest (no ID),20265.52,5629
+2010-11-01,United Kingdom,"Toys, crafts & stationery",New,10484.16,8593
+2010-11-01,United Kingdom,"Toys, crafts & stationery",Returning,66103.06,45846
+2010-11-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),21127.18,6291
+2010-11-01,United Kingdom,Home decor,New,28246.82,13583
+2010-11-01,United Kingdom,Home decor,Returning,196861.56,90827
+2010-11-01,United Kingdom,Home decor,Guest (no ID),42016.96,9386
+2010-11-01,United Kingdom,Other,New,13598.07,8225
+2010-11-01,United Kingdom,Other,Returning,58518.14,31813
+2010-11-01,United Kingdom,Other,Guest (no ID),18796.57,5199
+2010-11-01,EU,Christmas & seasonal,New,15.6,24
+2010-11-01,EU,Christmas & seasonal,Returning,8768.68,5561
+2010-11-01,EU,Christmas & seasonal,Guest (no ID),413.96,420
+2010-11-01,EU,Gifts & accessories,New,199.4,88
+2010-11-01,EU,Gifts & accessories,Returning,8553.39,3030
+2010-11-01,EU,Gifts & accessories,Guest (no ID),554.55,156
+2010-11-01,EU,Candles & lighting,New,527.44,280
+2010-11-01,EU,Candles & lighting,Returning,8285.37,5048
+2010-11-01,EU,Candles & lighting,Guest (no ID),433.38,460
+2010-11-01,EU,Party & gift wrap,New,192.3,123
+2010-11-01,EU,Party & gift wrap,Returning,8101.92,8303
+2010-11-01,EU,Party & gift wrap,Guest (no ID),421.36,417
+2010-11-01,EU,Kitchen & dining,New,1680.15,676
+2010-11-01,EU,Kitchen & dining,Returning,33015.78,15701
+2010-11-01,EU,Kitchen & dining,Guest (no ID),870.45,363
+2010-11-01,EU,Bags & storage,New,617.95,359
+2010-11-01,EU,Bags & storage,Returning,8054.89,5020
+2010-11-01,EU,Bags & storage,Guest (no ID),5.65,3
+2010-11-01,EU,"Toys, crafts & stationery",New,622.13,549
+2010-11-01,EU,"Toys, crafts & stationery",Returning,11030.14,7794
+2010-11-01,EU,"Toys, crafts & stationery",Guest (no ID),498.49,709
+2010-11-01,EU,Home decor,New,987.97,433
+2010-11-01,EU,Home decor,Returning,25163.03,11936
+2010-11-01,EU,Home decor,Guest (no ID),768.22,290
+2010-11-01,EU,Other,New,807.81,485
+2010-11-01,EU,Other,Returning,12416.2,7211
+2010-11-01,EU,Other,Guest (no ID),305.96,108
+2010-11-01,Rest of world,Christmas & seasonal,New,1010.02,710
+2010-11-01,Rest of world,Christmas & seasonal,Returning,346.43,174
+2010-11-01,Rest of world,Christmas & seasonal,Guest (no ID),30.15,17
+2010-11-01,Rest of world,Gifts & accessories,New,2829.0,1064
+2010-11-01,Rest of world,Gifts & accessories,Returning,298.3,94
+2010-11-01,Rest of world,Candles & lighting,New,566.84,376
+2010-11-01,Rest of world,Candles & lighting,Returning,1547.98,1286
+2010-11-01,Rest of world,Candles & lighting,Guest (no ID),37.7,18
+2010-11-01,Rest of world,Party & gift wrap,New,749.99,1043
+2010-11-01,Rest of world,Party & gift wrap,Returning,2127.85,4519
+2010-11-01,Rest of world,Party & gift wrap,Guest (no ID),36.1,14
+2010-11-01,Rest of world,Kitchen & dining,New,3321.03,1345
+2010-11-01,Rest of world,Kitchen & dining,Returning,10843.62,4889
+2010-11-01,Rest of world,Kitchen & dining,Guest (no ID),30.25,15
+2010-11-01,Rest of world,Bags & storage,New,465.8,199
+2010-11-01,Rest of world,Bags & storage,Returning,647.3,370
+2010-11-01,Rest of world,Bags & storage,Guest (no ID),1.9,2
+2010-11-01,Rest of world,"Toys, crafts & stationery",New,361.1,311
+2010-11-01,Rest of world,"Toys, crafts & stationery",Returning,3064.09,1851
+2010-11-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),26.9,18
+2010-11-01,Rest of world,Home decor,New,7554.6,2052
+2010-11-01,Rest of world,Home decor,Returning,1694.41,847
+2010-11-01,Rest of world,Home decor,Guest (no ID),56.39,15
+2010-11-01,Rest of world,Other,New,1203.5,422
+2010-11-01,Rest of world,Other,Returning,2276.84,1324
+2010-11-01,Rest of world,Other,Guest (no ID),8.45,3
+2010-12-01,United Kingdom,Christmas & seasonal,New,747.0,561
+2010-12-01,United Kingdom,Christmas & seasonal,Returning,21435.3,16046
+2010-12-01,United Kingdom,Christmas & seasonal,Guest (no ID),17830.94,5677
+2010-12-01,United Kingdom,Gifts & accessories,New,1558.25,479
+2010-12-01,United Kingdom,Gifts & accessories,Returning,54477.56,21450
+2010-12-01,United Kingdom,Gifts & accessories,Guest (no ID),44887.53,6709
+2010-12-01,United Kingdom,Candles & lighting,New,1362.48,745
+2010-12-01,United Kingdom,Candles & lighting,Returning,56228.34,25537
+2010-12-01,United Kingdom,Candles & lighting,Guest (no ID),14951.54,3581
+2010-12-01,United Kingdom,Party & gift wrap,New,1333.36,1463
+2010-12-01,United Kingdom,Party & gift wrap,Returning,18691.85,20705
+2010-12-01,United Kingdom,Party & gift wrap,Guest (no ID),6692.8,2483
+2010-12-01,United Kingdom,Kitchen & dining,New,4092.19,1694
+2010-12-01,United Kingdom,Kitchen & dining,Returning,92937.98,45403
+2010-12-01,United Kingdom,Kitchen & dining,Guest (no ID),48509.74,9226
+2010-12-01,United Kingdom,Bags & storage,New,640.98,310
+2010-12-01,United Kingdom,Bags & storage,Returning,26752.43,14158
+2010-12-01,United Kingdom,Bags & storage,Guest (no ID),17310.84,5189
+2010-12-01,United Kingdom,"Toys, crafts & stationery",New,2556.4,1687
+2010-12-01,United Kingdom,"Toys, crafts & stationery",Returning,29117.31,21430
+2010-12-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),13216.89,3322
+2010-12-01,United Kingdom,Home decor,New,4484.55,2404
+2010-12-01,United Kingdom,Home decor,Returning,130969.72,58646
+2010-12-01,United Kingdom,Home decor,Guest (no ID),32263.96,6791
+2010-12-01,United Kingdom,Other,New,2760.3,1225
+2010-12-01,United Kingdom,Other,Returning,31947.29,17522
+2010-12-01,United Kingdom,Other,Guest (no ID),13172.22,3243
+2010-12-01,EU,Christmas & seasonal,New,63.6,48
+2010-12-01,EU,Christmas & seasonal,Returning,2087.37,1829
+2010-12-01,EU,Christmas & seasonal,Guest (no ID),50.4,24
+2010-12-01,EU,Gifts & accessories,New,55.2,43
+2010-12-01,EU,Gifts & accessories,Returning,3279.34,1202
+2010-12-01,EU,Gifts & accessories,Guest (no ID),237.6,84
+2010-12-01,EU,Candles & lighting,New,202.8,160
+2010-12-01,EU,Candles & lighting,Returning,3637.16,3367
+2010-12-01,EU,Candles & lighting,Guest (no ID),45.0,36
+2010-12-01,EU,Party & gift wrap,New,474.83,515
+2010-12-01,EU,Party & gift wrap,Returning,1904.75,2962
+2010-12-01,EU,Party & gift wrap,Guest (no ID),10.2,12
+2010-12-01,EU,Kitchen & dining,New,779.93,531
+2010-12-01,EU,Kitchen & dining,Returning,14774.62,8304
+2010-12-01,EU,Kitchen & dining,Guest (no ID),369.3,158
+2010-12-01,EU,Bags & storage,New,188.54,122
+2010-12-01,EU,Bags & storage,Returning,4038.8,2421
+2010-12-01,EU,"Toys, crafts & stationery",New,453.44,542
+2010-12-01,EU,"Toys, crafts & stationery",Returning,5714.92,4304
+2010-12-01,EU,"Toys, crafts & stationery",Guest (no ID),68.28,84
+2010-12-01,EU,Home decor,New,362.52,196
+2010-12-01,EU,Home decor,Returning,8183.95,4758
+2010-12-01,EU,Home decor,Guest (no ID),299.2,76
+2010-12-01,EU,Other,New,243.7,190
+2010-12-01,EU,Other,Returning,4902.57,2623
+2010-12-01,EU,Other,Guest (no ID),74.4,48
+2010-12-01,Rest of world,Christmas & seasonal,New,359.8,220
+2010-12-01,Rest of world,Christmas & seasonal,Returning,51.0,6
+2010-12-01,Rest of world,Gifts & accessories,Returning,380.45,191
+2010-12-01,Rest of world,Candles & lighting,Returning,159.0,72
+2010-12-01,Rest of world,Candles & lighting,Guest (no ID),205.74,54
+2010-12-01,Rest of world,Party & gift wrap,New,946.32,852
+2010-12-01,Rest of world,Party & gift wrap,Returning,542.48,1128
+2010-12-01,Rest of world,Kitchen & dining,New,463.44,280
+2010-12-01,Rest of world,Kitchen & dining,Returning,6054.51,2999
+2010-12-01,Rest of world,Bags & storage,New,483.6,366
+2010-12-01,Rest of world,Bags & storage,Returning,53.0,24
+2010-12-01,Rest of world,"Toys, crafts & stationery",New,871.51,359
+2010-12-01,Rest of world,"Toys, crafts & stationery",Returning,452.64,624
+2010-12-01,Rest of world,Home decor,New,717.6,480
+2010-12-01,Rest of world,Home decor,Returning,1298.87,545
+2010-12-01,Rest of world,Other,New,327.3,262
+2010-12-01,Rest of world,Other,Returning,1291.07,765
+2011-01-01,United Kingdom,Christmas & seasonal,New,405.05,223
+2011-01-01,United Kingdom,Christmas & seasonal,Returning,3009.33,2218
+2011-01-01,United Kingdom,Christmas & seasonal,Guest (no ID),1869.29,1103
+2011-01-01,United Kingdom,Gifts & accessories,New,478.73,259
+2011-01-01,United Kingdom,Gifts & accessories,Returning,12727.46,8420
+2011-01-01,United Kingdom,Gifts & accessories,Guest (no ID),9830.05,2763
+2011-01-01,United Kingdom,Candles & lighting,New,5979.28,2638
+2011-01-01,United Kingdom,Candles & lighting,Returning,37285.42,22447
+2011-01-01,United Kingdom,Candles & lighting,Guest (no ID),8387.07,3641
+2011-01-01,United Kingdom,Party & gift wrap,New,2337.33,1795
+2011-01-01,United Kingdom,Party & gift wrap,Returning,23690.96,24483
+2011-01-01,United Kingdom,Party & gift wrap,Guest (no ID),5516.23,3581
+2011-01-01,United Kingdom,Kitchen & dining,New,19582.38,7417
+2011-01-01,United Kingdom,Kitchen & dining,Returning,78334.87,38354
+2011-01-01,United Kingdom,Kitchen & dining,Guest (no ID),28511.57,7270
+2011-01-01,United Kingdom,Bags & storage,New,2026.25,974
+2011-01-01,United Kingdom,Bags & storage,Returning,29445.55,17169
+2011-01-01,United Kingdom,Bags & storage,Guest (no ID),15568.22,5157
+2011-01-01,United Kingdom,"Toys, crafts & stationery",New,1394.42,819
+2011-01-01,United Kingdom,"Toys, crafts & stationery",Returning,16587.45,14102
+2011-01-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),6577.95,3429
+2011-01-01,United Kingdom,Home decor,New,9092.2,4464
+2011-01-01,United Kingdom,Home decor,Returning,88835.24,41663
+2011-01-01,United Kingdom,Home decor,Guest (no ID),20285.73,7009
+2011-01-01,United Kingdom,Other,New,1937.73,1013
+2011-01-01,United Kingdom,Other,Returning,17540.74,9854
+2011-01-01,United Kingdom,Other,Guest (no ID),8488.68,3436
+2011-01-01,EU,Christmas & seasonal,New,20.1,18
+2011-01-01,EU,Christmas & seasonal,Returning,1062.94,497
+2011-01-01,EU,Gifts & accessories,New,273.3,132
+2011-01-01,EU,Gifts & accessories,Returning,2766.1,976
+2011-01-01,EU,Candles & lighting,New,176.95,77
+2011-01-01,EU,Candles & lighting,Returning,4102.37,2789
+2011-01-01,EU,Party & gift wrap,New,580.39,855
+2011-01-01,EU,Party & gift wrap,Returning,7277.92,8563
+2011-01-01,EU,Kitchen & dining,New,1947.19,1093
+2011-01-01,EU,Kitchen & dining,Returning,44648.87,18846
+2011-01-01,EU,Bags & storage,New,398.75,161
+2011-01-01,EU,Bags & storage,Returning,7152.73,4767
+2011-01-01,EU,"Toys, crafts & stationery",New,738.55,425
+2011-01-01,EU,"Toys, crafts & stationery",Returning,7187.91,7334
+2011-01-01,EU,Home decor,New,639.79,322
+2011-01-01,EU,Home decor,Returning,12354.95,5716
+2011-01-01,EU,Other,New,407.1,278
+2011-01-01,EU,Other,Returning,11197.48,6668
+2011-01-01,EU,Other,Guest (no ID),-15.0,-4
+2011-01-01,Rest of world,Christmas & seasonal,New,15.0,12
+2011-01-01,Rest of world,Christmas & seasonal,Returning,650.28,448
+2011-01-01,Rest of world,Gifts & accessories,Returning,639.35,381
+2011-01-01,Rest of world,Gifts & accessories,Guest (no ID),59.7,18
+2011-01-01,Rest of world,Candles & lighting,Returning,407.18,260
+2011-01-01,Rest of world,Candles & lighting,Guest (no ID),-138.24,-44
+2011-01-01,Rest of world,Party & gift wrap,New,69.75,15
+2011-01-01,Rest of world,Party & gift wrap,Returning,2083.15,1929
+2011-01-01,Rest of world,Party & gift wrap,Guest (no ID),70.62,70
+2011-01-01,Rest of world,Kitchen & dining,New,687.2,122
+2011-01-01,Rest of world,Kitchen & dining,Returning,5388.89,2645
+2011-01-01,Rest of world,Kitchen & dining,Guest (no ID),1017.0,436
+2011-01-01,Rest of world,Bags & storage,Returning,1242.35,657
+2011-01-01,Rest of world,Bags & storage,Guest (no ID),256.5,118
+2011-01-01,Rest of world,"Toys, crafts & stationery",New,71.5,54
+2011-01-01,Rest of world,"Toys, crafts & stationery",Returning,2412.43,2291
+2011-01-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),366.88,153
+2011-01-01,Rest of world,Home decor,New,592.23,139
+2011-01-01,Rest of world,Home decor,Returning,2179.61,709
+2011-01-01,Rest of world,Home decor,Guest (no ID),108.9,62
+2011-01-01,Rest of world,Other,New,258.2,44
+2011-01-01,Rest of world,Other,Returning,1109.44,928
+2011-01-01,Rest of world,Other,Guest (no ID),663.7,294
+2011-02-01,United Kingdom,Christmas & seasonal,New,544.75,339
+2011-02-01,United Kingdom,Christmas & seasonal,Returning,5171.13,3230
+2011-02-01,United Kingdom,Christmas & seasonal,Guest (no ID),564.77,219
+2011-02-01,United Kingdom,Gifts & accessories,New,1196.45,625
+2011-02-01,United Kingdom,Gifts & accessories,Returning,8246.89,6503
+2011-02-01,United Kingdom,Gifts & accessories,Guest (no ID),3877.24,1003
+2011-02-01,United Kingdom,Candles & lighting,New,3018.94,2962
+2011-02-01,United Kingdom,Candles & lighting,Returning,24301.4,16545
+2011-02-01,United Kingdom,Candles & lighting,Guest (no ID),4812.14,1427
+2011-02-01,United Kingdom,Party & gift wrap,New,3206.86,2712
+2011-02-01,United Kingdom,Party & gift wrap,Returning,27913.89,30998
+2011-02-01,United Kingdom,Party & gift wrap,Guest (no ID),4560.09,1595
+2011-02-01,United Kingdom,Kitchen & dining,New,11011.58,4402
+2011-02-01,United Kingdom,Kitchen & dining,Returning,78785.16,36270
+2011-02-01,United Kingdom,Kitchen & dining,Guest (no ID),17833.32,3581
+2011-02-01,United Kingdom,Bags & storage,New,2256.72,1611
+2011-02-01,United Kingdom,Bags & storage,Returning,30727.22,17202
+2011-02-01,United Kingdom,Bags & storage,Guest (no ID),9470.65,2706
+2011-02-01,United Kingdom,"Toys, crafts & stationery",New,2604.71,2324
+2011-02-01,United Kingdom,"Toys, crafts & stationery",Returning,18715.68,13901
+2011-02-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2509.14,1072
+2011-02-01,United Kingdom,Home decor,New,11371.48,8450
+2011-02-01,United Kingdom,Home decor,Returning,96834.76,44954
+2011-02-01,United Kingdom,Home decor,Guest (no ID),15645.77,3815
+2011-02-01,United Kingdom,Other,New,2663.1,1881
+2011-02-01,United Kingdom,Other,Returning,20964.43,16157
+2011-02-01,United Kingdom,Other,Guest (no ID),4079.39,1375
+2011-02-01,EU,Christmas & seasonal,New,39.6,24
+2011-02-01,EU,Christmas & seasonal,Returning,904.71,729
+2011-02-01,EU,Gifts & accessories,New,93.55,65
+2011-02-01,EU,Gifts & accessories,Returning,1912.85,693
+2011-02-01,EU,Gifts & accessories,Guest (no ID),96.9,49
+2011-02-01,EU,Candles & lighting,New,321.6,192
+2011-02-01,EU,Candles & lighting,Returning,3658.38,2687
+2011-02-01,EU,Candles & lighting,Guest (no ID),103.32,67
+2011-02-01,EU,Party & gift wrap,New,316.92,268
+2011-02-01,EU,Party & gift wrap,Returning,5457.41,7024
+2011-02-01,EU,Party & gift wrap,Guest (no ID),142.74,174
+2011-02-01,EU,Kitchen & dining,New,1598.2,536
+2011-02-01,EU,Kitchen & dining,Returning,18264.17,8669
+2011-02-01,EU,Kitchen & dining,Guest (no ID),563.15,281
+2011-02-01,EU,Bags & storage,New,158.0,96
+2011-02-01,EU,Bags & storage,Returning,4267.73,3141
+2011-02-01,EU,Bags & storage,Guest (no ID),285.85,73
+2011-02-01,EU,"Toys, crafts & stationery",New,371.72,304
+2011-02-01,EU,"Toys, crafts & stationery",Returning,2720.02,2877
+2011-02-01,EU,"Toys, crafts & stationery",Guest (no ID),116.83,83
+2011-02-01,EU,Home decor,New,872.76,320
+2011-02-01,EU,Home decor,Returning,11116.06,5691
+2011-02-01,EU,Home decor,Guest (no ID),619.78,200
+2011-02-01,EU,Other,New,476.1,208
+2011-02-01,EU,Other,Returning,4972.42,2777
+2011-02-01,EU,Other,Guest (no ID),148.65,87
+2011-02-01,Rest of world,Christmas & seasonal,New,101.1,62
+2011-02-01,Rest of world,Christmas & seasonal,Returning,508.5,350
+2011-02-01,Rest of world,Gifts & accessories,New,80.4,48
+2011-02-01,Rest of world,Gifts & accessories,Returning,275.82,150
+2011-02-01,Rest of world,Candles & lighting,New,17.4,12
+2011-02-01,Rest of world,Candles & lighting,Returning,1191.37,793
+2011-02-01,Rest of world,Party & gift wrap,Returning,3556.75,3263
+2011-02-01,Rest of world,Kitchen & dining,New,148.53,87
+2011-02-01,Rest of world,Kitchen & dining,Returning,10621.9,4009
+2011-02-01,Rest of world,Bags & storage,Returning,1258.5,986
+2011-02-01,Rest of world,"Toys, crafts & stationery",New,41.07,37
+2011-02-01,Rest of world,"Toys, crafts & stationery",Returning,3144.99,1653
+2011-02-01,Rest of world,Home decor,New,79.58,44
+2011-02-01,Rest of world,Home decor,Returning,3147.97,1677
+2011-02-01,Rest of world,Other,New,157.16,88
+2011-02-01,Rest of world,Other,Returning,2629.78,1588
+2011-03-01,United Kingdom,Christmas & seasonal,New,706.71,480
+2011-03-01,United Kingdom,Christmas & seasonal,Returning,6116.97,4406
+2011-03-01,United Kingdom,Christmas & seasonal,Guest (no ID),1608.81,490
+2011-03-01,United Kingdom,Gifts & accessories,New,1210.2,907
+2011-03-01,United Kingdom,Gifts & accessories,Returning,12154.98,11561
+2011-03-01,United Kingdom,Gifts & accessories,Guest (no ID),4072.09,1392
+2011-03-01,United Kingdom,Candles & lighting,New,4165.87,2839
+2011-03-01,United Kingdom,Candles & lighting,Returning,28511.72,19716
+2011-03-01,United Kingdom,Candles & lighting,Guest (no ID),7448.97,2393
+2011-03-01,United Kingdom,Party & gift wrap,New,6938.43,5686
+2011-03-01,United Kingdom,Party & gift wrap,Returning,38591.97,35089
+2011-03-01,United Kingdom,Party & gift wrap,Guest (no ID),10446.62,2911
+2011-03-01,United Kingdom,Kitchen & dining,New,20225.49,9573
+2011-03-01,United Kingdom,Kitchen & dining,Returning,91422.44,45987
+2011-03-01,United Kingdom,Kitchen & dining,Guest (no ID),30866.96,6646
+2011-03-01,United Kingdom,Bags & storage,New,2288.8,1167
+2011-03-01,United Kingdom,Bags & storage,Returning,54674.75,32911
+2011-03-01,United Kingdom,Bags & storage,Guest (no ID),18165.33,5121
+2011-03-01,United Kingdom,"Toys, crafts & stationery",New,4758.93,3472
+2011-03-01,United Kingdom,"Toys, crafts & stationery",Returning,27931.78,20740
+2011-03-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),4230.78,1569
+2011-03-01,United Kingdom,Home decor,New,15366.14,7025
+2011-03-01,United Kingdom,Home decor,Returning,105190.88,49210
+2011-03-01,United Kingdom,Home decor,Guest (no ID),20187.61,4884
+2011-03-01,United Kingdom,Other,New,6294.04,3469
+2011-03-01,United Kingdom,Other,Returning,29624.84,18052
+2011-03-01,United Kingdom,Other,Guest (no ID),8576.02,2548
+2011-03-01,EU,Christmas & seasonal,New,93.7,50
+2011-03-01,EU,Christmas & seasonal,Returning,722.48,466
+2011-03-01,EU,Gifts & accessories,New,446.67,193
+2011-03-01,EU,Gifts & accessories,Returning,1563.84,1225
+2011-03-01,EU,Gifts & accessories,Guest (no ID),10.2,12
+2011-03-01,EU,Candles & lighting,New,566.9,334
+2011-03-01,EU,Candles & lighting,Returning,3356.89,1440
+2011-03-01,EU,Candles & lighting,Guest (no ID),15.0,12
+2011-03-01,EU,Party & gift wrap,New,923.09,1066
+2011-03-01,EU,Party & gift wrap,Returning,5256.34,6254
+2011-03-01,EU,Party & gift wrap,Guest (no ID),-10.2,-12
+2011-03-01,EU,Kitchen & dining,New,4166.68,2164
+2011-03-01,EU,Kitchen & dining,Returning,31852.38,17222
+2011-03-01,EU,Kitchen & dining,Guest (no ID),226.95,209
+2011-03-01,EU,Bags & storage,New,400.2,206
+2011-03-01,EU,Bags & storage,Returning,8132.73,5593
+2011-03-01,EU,Bags & storage,Guest (no ID),79.5,40
+2011-03-01,EU,"Toys, crafts & stationery",New,853.82,932
+2011-03-01,EU,"Toys, crafts & stationery",Returning,9316.07,7122
+2011-03-01,EU,"Toys, crafts & stationery",Guest (no ID),72.6,38
+2011-03-01,EU,Home decor,New,2175.71,932
+2011-03-01,EU,Home decor,Returning,11831.43,6382
+2011-03-01,EU,Home decor,Guest (no ID),45.3,14
+2011-03-01,EU,Other,New,1898.78,940
+2011-03-01,EU,Other,Returning,10894.57,5353
+2011-03-01,EU,Other,Guest (no ID),23.6,8
+2011-03-01,Rest of world,Christmas & seasonal,New,10.2,12
+2011-03-01,Rest of world,Christmas & seasonal,Returning,471.18,366
+2011-03-01,Rest of world,Gifts & accessories,New,10.5,25
+2011-03-01,Rest of world,Gifts & accessories,Returning,30.3,36
+2011-03-01,Rest of world,Candles & lighting,New,56.6,46
+2011-03-01,Rest of world,Candles & lighting,Returning,519.05,379
+2011-03-01,Rest of world,Party & gift wrap,New,20.7,37
+2011-03-01,Rest of world,Party & gift wrap,Returning,2200.26,4061
+2011-03-01,Rest of world,Kitchen & dining,New,267.05,103
+2011-03-01,Rest of world,Kitchen & dining,Returning,10012.53,3782
+2011-03-01,Rest of world,Bags & storage,Returning,591.61,359
+2011-03-01,Rest of world,"Toys, crafts & stationery",New,53.88,84
+2011-03-01,Rest of world,"Toys, crafts & stationery",Returning,4712.42,2618
+2011-03-01,Rest of world,Home decor,New,187.82,106
+2011-03-01,Rest of world,Home decor,Returning,1330.72,520
+2011-03-01,Rest of world,Other,New,313.96,116
+2011-03-01,Rest of world,Other,Returning,1722.05,937
+2011-04-01,United Kingdom,Christmas & seasonal,New,343.34,172
+2011-04-01,United Kingdom,Christmas & seasonal,Returning,2191.38,1370
+2011-04-01,United Kingdom,Christmas & seasonal,Guest (no ID),1229.04,428
+2011-04-01,United Kingdom,Gifts & accessories,New,1335.4,924
+2011-04-01,United Kingdom,Gifts & accessories,Returning,8645.62,10499
+2011-04-01,United Kingdom,Gifts & accessories,Guest (no ID),2062.41,574
+2011-04-01,United Kingdom,Candles & lighting,New,2566.55,1738
+2011-04-01,United Kingdom,Candles & lighting,Returning,26934.02,21771
+2011-04-01,United Kingdom,Candles & lighting,Guest (no ID),4295.78,1450
+2011-04-01,United Kingdom,Party & gift wrap,New,4880.15,4253
+2011-04-01,United Kingdom,Party & gift wrap,Returning,36644.48,34918
+2011-04-01,United Kingdom,Party & gift wrap,Guest (no ID),8913.39,2015
+2011-04-01,United Kingdom,Kitchen & dining,New,8202.0,3388
+2011-04-01,United Kingdom,Kitchen & dining,Returning,82135.06,46839
+2011-04-01,United Kingdom,Kitchen & dining,Guest (no ID),15628.61,3183
+2011-04-01,United Kingdom,Bags & storage,New,1403.06,663
+2011-04-01,United Kingdom,Bags & storage,Returning,34003.06,21221
+2011-04-01,United Kingdom,Bags & storage,Guest (no ID),9411.34,2681
+2011-04-01,United Kingdom,"Toys, crafts & stationery",New,2952.53,2329
+2011-04-01,United Kingdom,"Toys, crafts & stationery",Returning,25144.01,19667
+2011-04-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2045.9,860
+2011-04-01,United Kingdom,Home decor,New,8364.9,3576
+2011-04-01,United Kingdom,Home decor,Returning,96174.97,53714
+2011-04-01,United Kingdom,Home decor,Guest (no ID),10752.77,3168
+2011-04-01,United Kingdom,Other,New,3793.0,2068
+2011-04-01,United Kingdom,Other,Returning,29754.8,17873
+2011-04-01,United Kingdom,Other,Guest (no ID),4938.7,1410
+2011-04-01,EU,Christmas & seasonal,New,5.9,2
+2011-04-01,EU,Christmas & seasonal,Returning,242.3,182
+2011-04-01,EU,Gifts & accessories,New,13.86,49
+2011-04-01,EU,Gifts & accessories,Returning,904.66,501
+2011-04-01,EU,Candles & lighting,New,137.92,90
+2011-04-01,EU,Candles & lighting,Returning,1220.69,1035
+2011-04-01,EU,Party & gift wrap,New,182.43,139
+2011-04-01,EU,Party & gift wrap,Returning,2183.58,2407
+2011-04-01,EU,Kitchen & dining,New,1628.82,654
+2011-04-01,EU,Kitchen & dining,Returning,8864.83,4032
+2011-04-01,EU,Bags & storage,New,220.64,136
+2011-04-01,EU,Bags & storage,Returning,4161.32,2629
+2011-04-01,EU,"Toys, crafts & stationery",New,163.3,109
+2011-04-01,EU,"Toys, crafts & stationery",Returning,2888.75,1940
+2011-04-01,EU,Home decor,New,345.64,170
+2011-04-01,EU,Home decor,Returning,6491.72,2974
+2011-04-01,EU,Other,New,493.35,137
+2011-04-01,EU,Other,Returning,4327.67,2325
+2011-04-01,Rest of world,Gifts & accessories,New,71.4,12
+2011-04-01,Rest of world,Gifts & accessories,Returning,50.4,18
+2011-04-01,Rest of world,Gifts & accessories,Guest (no ID),39.0,12
+2011-04-01,Rest of world,Candles & lighting,New,120.0,96
+2011-04-01,Rest of world,Candles & lighting,Returning,375.0,188
+2011-04-01,Rest of world,Candles & lighting,Guest (no ID),39.8,4
+2011-04-01,Rest of world,Party & gift wrap,New,180.48,152
+2011-04-01,Rest of world,Party & gift wrap,Returning,958.04,892
+2011-04-01,Rest of world,Kitchen & dining,New,1199.44,588
+2011-04-01,Rest of world,Kitchen & dining,Returning,920.35,1353
+2011-04-01,Rest of world,Kitchen & dining,Guest (no ID),1289.36,616
+2011-04-01,Rest of world,Bags & storage,New,171.16,80
+2011-04-01,Rest of world,Bags & storage,Returning,1118.64,785
+2011-04-01,Rest of world,"Toys, crafts & stationery",New,53.7,34
+2011-04-01,Rest of world,"Toys, crafts & stationery",Returning,1975.77,3153
+2011-04-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),40.8,48
+2011-04-01,Rest of world,Home decor,New,370.76,132
+2011-04-01,Rest of world,Home decor,Returning,1359.78,935
+2011-04-01,Rest of world,Home decor,Guest (no ID),82.4,14
+2011-04-01,Rest of world,Other,New,368.45,125
+2011-04-01,Rest of world,Other,Returning,1888.69,2481
+2011-04-01,Rest of world,Other,Guest (no ID),158.28,68
+2011-05-01,United Kingdom,Christmas & seasonal,New,425.2,136
+2011-05-01,United Kingdom,Christmas & seasonal,Returning,530.3,514
+2011-05-01,United Kingdom,Christmas & seasonal,Guest (no ID),255.15,239
+2011-05-01,United Kingdom,Gifts & accessories,New,804.36,518
+2011-05-01,United Kingdom,Gifts & accessories,Returning,11806.4,12301
+2011-05-01,United Kingdom,Gifts & accessories,Guest (no ID),3904.06,1471
+2011-05-01,United Kingdom,Candles & lighting,New,3523.08,2240
+2011-05-01,United Kingdom,Candles & lighting,Returning,49868.63,31929
+2011-05-01,United Kingdom,Candles & lighting,Guest (no ID),5149.48,1748
+2011-05-01,United Kingdom,Party & gift wrap,New,2204.72,1601
+2011-05-01,United Kingdom,Party & gift wrap,Returning,52982.91,38724
+2011-05-01,United Kingdom,Party & gift wrap,Guest (no ID),11513.62,2742
+2011-05-01,United Kingdom,Kitchen & dining,New,9466.39,5105
+2011-05-01,United Kingdom,Kitchen & dining,Returning,128628.79,63277
+2011-05-01,United Kingdom,Kitchen & dining,Guest (no ID),18055.7,3664
+2011-05-01,United Kingdom,Bags & storage,New,2731.8,1635
+2011-05-01,United Kingdom,Bags & storage,Returning,68666.2,38548
+2011-05-01,United Kingdom,Bags & storage,Guest (no ID),14566.56,4087
+2011-05-01,United Kingdom,"Toys, crafts & stationery",New,3438.39,2490
+2011-05-01,United Kingdom,"Toys, crafts & stationery",Returning,24939.67,19624
+2011-05-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2492.72,977
+2011-05-01,United Kingdom,Home decor,New,5498.19,2145
+2011-05-01,United Kingdom,Home decor,Returning,125685.56,52656
+2011-05-01,United Kingdom,Home decor,Guest (no ID),14364.94,3357
+2011-05-01,United Kingdom,Other,New,3283.32,1939
+2011-05-01,United Kingdom,Other,Returning,38641.54,21756
+2011-05-01,United Kingdom,Other,Guest (no ID),6156.19,1575
+2011-05-01,EU,Christmas & seasonal,New,153.0,84
+2011-05-01,EU,Christmas & seasonal,Returning,237.96,324
+2011-05-01,EU,Gifts & accessories,New,2218.65,983
+2011-05-01,EU,Gifts & accessories,Returning,1540.41,778
+2011-05-01,EU,Candles & lighting,New,1210.66,428
+2011-05-01,EU,Candles & lighting,Returning,4833.95,3023
+2011-05-01,EU,Candles & lighting,Guest (no ID),170.16,84
+2011-05-01,EU,Party & gift wrap,New,335.51,399
+2011-05-01,EU,Party & gift wrap,Returning,5331.72,6413
+2011-05-01,EU,Party & gift wrap,Guest (no ID),100.95,73
+2011-05-01,EU,Kitchen & dining,New,4607.71,1951
+2011-05-01,EU,Kitchen & dining,Returning,27197.77,12794
+2011-05-01,EU,Kitchen & dining,Guest (no ID),1245.96,414
+2011-05-01,EU,Bags & storage,New,1913.75,1400
+2011-05-01,EU,Bags & storage,Returning,10534.39,7435
+2011-05-01,EU,Bags & storage,Guest (no ID),10.2,12
+2011-05-01,EU,"Toys, crafts & stationery",New,1162.64,1115
+2011-05-01,EU,"Toys, crafts & stationery",Returning,5047.9,4809
+2011-05-01,EU,"Toys, crafts & stationery",Guest (no ID),46.5,28
+2011-05-01,EU,Home decor,New,1661.89,697
+2011-05-01,EU,Home decor,Returning,18030.46,10063
+2011-05-01,EU,Home decor,Guest (no ID),350.5,114
+2011-05-01,EU,Other,New,1800.17,929
+2011-05-01,EU,Other,Returning,8143.97,4158
+2011-05-01,EU,Other,Guest (no ID),102.3,52
+2011-05-01,Rest of world,Christmas & seasonal,Returning,0.0,0
+2011-05-01,Rest of world,Gifts & accessories,Returning,874.44,852
+2011-05-01,Rest of world,Gifts & accessories,Guest (no ID),30.6,36
+2011-05-01,Rest of world,Candles & lighting,Returning,1007.14,594
+2011-05-01,Rest of world,Candles & lighting,Guest (no ID),39.81,27
+2011-05-01,Rest of world,Party & gift wrap,Returning,2594.72,2397
+2011-05-01,Rest of world,Party & gift wrap,Guest (no ID),153.6,80
+2011-05-01,Rest of world,Kitchen & dining,New,583.74,514
+2011-05-01,Rest of world,Kitchen & dining,Returning,4897.46,2122
+2011-05-01,Rest of world,Kitchen & dining,Guest (no ID),1246.68,872
+2011-05-01,Rest of world,Bags & storage,New,115.5,70
+2011-05-01,Rest of world,Bags & storage,Returning,1472.19,653
+2011-05-01,Rest of world,Bags & storage,Guest (no ID),161.9,100
+2011-05-01,Rest of world,"Toys, crafts & stationery",Returning,1492.88,916
+2011-05-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),197.7,82
+2011-05-01,Rest of world,Home decor,New,115.2,16
+2011-05-01,Rest of world,Home decor,Returning,3776.31,2344
+2011-05-01,Rest of world,Home decor,Guest (no ID),154.74,86
+2011-05-01,Rest of world,Other,New,35.1,18
+2011-05-01,Rest of world,Other,Returning,4261.6,3120
+2011-05-01,Rest of world,Other,Guest (no ID),184.32,128
+2011-06-01,United Kingdom,Christmas & seasonal,New,1299.41,739
+2011-06-01,United Kingdom,Christmas & seasonal,Returning,1760.62,1568
+2011-06-01,United Kingdom,Christmas & seasonal,Guest (no ID),662.3,431
+2011-06-01,United Kingdom,Gifts & accessories,New,1177.83,898
+2011-06-01,United Kingdom,Gifts & accessories,Returning,12472.82,14834
+2011-06-01,United Kingdom,Gifts & accessories,Guest (no ID),3878.28,1222
+2011-06-01,United Kingdom,Candles & lighting,New,2828.16,1853
+2011-06-01,United Kingdom,Candles & lighting,Returning,33255.44,22056
+2011-06-01,United Kingdom,Candles & lighting,Guest (no ID),5263.17,1875
+2011-06-01,United Kingdom,Party & gift wrap,New,3191.02,4034
+2011-06-01,United Kingdom,Party & gift wrap,Returning,34489.43,29548
+2011-06-01,United Kingdom,Party & gift wrap,Guest (no ID),9955.92,2870
+2011-06-01,United Kingdom,Kitchen & dining,New,46659.28,3137
+2011-06-01,United Kingdom,Kitchen & dining,Returning,108790.57,50883
+2011-06-01,United Kingdom,Kitchen & dining,Guest (no ID),20124.22,4306
+2011-06-01,United Kingdom,Bags & storage,New,2807.05,1772
+2011-06-01,United Kingdom,Bags & storage,Returning,65628.08,35253
+2011-06-01,United Kingdom,Bags & storage,Guest (no ID),15192.19,4283
+2011-06-01,United Kingdom,"Toys, crafts & stationery",New,2602.1,2035
+2011-06-01,United Kingdom,"Toys, crafts & stationery",Returning,18935.37,23294
+2011-06-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),3780.66,2373
+2011-06-01,United Kingdom,Home decor,New,7113.96,4046
+2011-06-01,United Kingdom,Home decor,Returning,133451.34,57909
+2011-06-01,United Kingdom,Home decor,Guest (no ID),16224.32,4443
+2011-06-01,United Kingdom,Other,New,3903.4,3136
+2011-06-01,United Kingdom,Other,Returning,30683.4,17075
+2011-06-01,United Kingdom,Other,Guest (no ID),7014.01,2213
+2011-06-01,EU,Christmas & seasonal,New,2.1,5
+2011-06-01,EU,Christmas & seasonal,Returning,590.65,571
+2011-06-01,EU,Christmas & seasonal,Guest (no ID),35.4,12
+2011-06-01,EU,Gifts & accessories,New,283.53,79
+2011-06-01,EU,Gifts & accessories,Returning,1852.59,1455
+2011-06-01,EU,Gifts & accessories,Guest (no ID),-96.9,-49
+2011-06-01,EU,Candles & lighting,New,313.52,170
+2011-06-01,EU,Candles & lighting,Returning,5163.96,3738
+2011-06-01,EU,Candles & lighting,Guest (no ID),205.19,126
+2011-06-01,EU,Party & gift wrap,New,265.06,283
+2011-06-01,EU,Party & gift wrap,Returning,5819.54,6292
+2011-06-01,EU,Party & gift wrap,Guest (no ID),-69.39,-117
+2011-06-01,EU,Kitchen & dining,New,1159.22,634
+2011-06-01,EU,Kitchen & dining,Returning,26462.94,13748
+2011-06-01,EU,Kitchen & dining,Guest (no ID),168.9,28
+2011-06-01,EU,Bags & storage,New,299.65,139
+2011-06-01,EU,Bags & storage,Returning,15919.85,10843
+2011-06-01,EU,Bags & storage,Guest (no ID),-275.65,-61
+2011-06-01,EU,"Toys, crafts & stationery",New,411.36,361
+2011-06-01,EU,"Toys, crafts & stationery",Returning,4565.94,4285
+2011-06-01,EU,"Toys, crafts & stationery",Guest (no ID),137.47,138
+2011-06-01,EU,Home decor,New,833.16,458
+2011-06-01,EU,Home decor,Returning,13570.74,7397
+2011-06-01,EU,Home decor,Guest (no ID),230.28,130
+2011-06-01,EU,Other,New,592.24,298
+2011-06-01,EU,Other,Returning,8193.22,4856
+2011-06-01,EU,Other,Guest (no ID),166.6,99
+2011-06-01,Rest of world,Christmas & seasonal,New,11.4,30
+2011-06-01,Rest of world,Christmas & seasonal,Returning,225.6,128
+2011-06-01,Rest of world,Gifts & accessories,New,67.36,67
+2011-06-01,Rest of world,Gifts & accessories,Returning,37.2,12
+2011-06-01,Rest of world,Candles & lighting,New,345.0,126
+2011-06-01,Rest of world,Candles & lighting,Returning,2470.94,1406
+2011-06-01,Rest of world,Party & gift wrap,New,106.2,181
+2011-06-01,Rest of world,Party & gift wrap,Returning,3931.5,4241
+2011-06-01,Rest of world,Party & gift wrap,Guest (no ID),119.64,132
+2011-06-01,Rest of world,Kitchen & dining,New,1652.84,652
+2011-06-01,Rest of world,Kitchen & dining,Returning,14736.29,7275
+2011-06-01,Rest of world,Kitchen & dining,Guest (no ID),78.0,24
+2011-06-01,Rest of world,Bags & storage,New,525.05,195
+2011-06-01,Rest of world,Bags & storage,Returning,2867.7,1740
+2011-06-01,Rest of world,"Toys, crafts & stationery",New,812.03,395
+2011-06-01,Rest of world,"Toys, crafts & stationery",Returning,4460.74,4856
+2011-06-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),250.8,168
+2011-06-01,Rest of world,Home decor,New,1660.98,958
+2011-06-01,Rest of world,Home decor,Returning,3918.96,1798
+2011-06-01,Rest of world,Home decor,Guest (no ID),105.36,152
+2011-06-01,Rest of world,Other,New,1177.46,496
+2011-06-01,Rest of world,Other,Returning,4273.41,1839
+2011-06-01,Rest of world,Other,Guest (no ID),65.16,60
+2011-07-01,United Kingdom,Christmas & seasonal,New,1076.2,732
+2011-07-01,United Kingdom,Christmas & seasonal,Returning,7101.75,5085
+2011-07-01,United Kingdom,Christmas & seasonal,Guest (no ID),839.94,289
+2011-07-01,United Kingdom,Gifts & accessories,New,839.51,635
+2011-07-01,United Kingdom,Gifts & accessories,Returning,17483.58,15793
+2011-07-01,United Kingdom,Gifts & accessories,Guest (no ID),4951.27,1560
+2011-07-01,United Kingdom,Candles & lighting,New,2779.28,1571
+2011-07-01,United Kingdom,Candles & lighting,Returning,34192.99,20617
+2011-07-01,United Kingdom,Candles & lighting,Guest (no ID),6221.52,2218
+2011-07-01,United Kingdom,Party & gift wrap,New,2619.02,3312
+2011-07-01,United Kingdom,Party & gift wrap,Returning,36793.76,32134
+2011-07-01,United Kingdom,Party & gift wrap,Guest (no ID),10141.89,4012
+2011-07-01,United Kingdom,Kitchen & dining,New,8260.29,4288
+2011-07-01,United Kingdom,Kitchen & dining,Returning,101980.78,55162
+2011-07-01,United Kingdom,Kitchen & dining,Guest (no ID),23771.94,4988
+2011-07-01,United Kingdom,Bags & storage,New,1907.67,954
+2011-07-01,United Kingdom,Bags & storage,Returning,64625.85,37980
+2011-07-01,United Kingdom,Bags & storage,Guest (no ID),17228.28,5723
+2011-07-01,United Kingdom,"Toys, crafts & stationery",New,2288.35,2967
+2011-07-01,United Kingdom,"Toys, crafts & stationery",Returning,24572.86,26575
+2011-07-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),4698.59,3241
+2011-07-01,United Kingdom,Home decor,New,9642.97,4626
+2011-07-01,United Kingdom,Home decor,Returning,120841.25,55605
+2011-07-01,United Kingdom,Home decor,Guest (no ID),17955.63,5683
+2011-07-01,United Kingdom,Other,New,4037.87,4204
+2011-07-01,United Kingdom,Other,Returning,31616.61,23657
+2011-07-01,United Kingdom,Other,Guest (no ID),8042.2,2970
+2011-07-01,EU,Christmas & seasonal,New,35.25,15
+2011-07-01,EU,Christmas & seasonal,Returning,3381.98,2538
+2011-07-01,EU,Gifts & accessories,New,189.13,161
+2011-07-01,EU,Gifts & accessories,Returning,2845.56,828
+2011-07-01,EU,Candles & lighting,New,217.24,134
+2011-07-01,EU,Candles & lighting,Returning,2325.32,1388
+2011-07-01,EU,Candles & lighting,Guest (no ID),107.16,120
+2011-07-01,EU,Party & gift wrap,New,717.44,823
+2011-07-01,EU,Party & gift wrap,Returning,4060.56,4788
+2011-07-01,EU,Party & gift wrap,Guest (no ID),98.97,118
+2011-07-01,EU,Kitchen & dining,New,2221.75,1253
+2011-07-01,EU,Kitchen & dining,Returning,35915.44,17877
+2011-07-01,EU,Kitchen & dining,Guest (no ID),1027.69,317
+2011-07-01,EU,Bags & storage,New,849.19,438
+2011-07-01,EU,Bags & storage,Returning,6079.94,3445
+2011-07-01,EU,Bags & storage,Guest (no ID),10.2,12
+2011-07-01,EU,"Toys, crafts & stationery",New,542.69,489
+2011-07-01,EU,"Toys, crafts & stationery",Returning,4527.73,4760
+2011-07-01,EU,"Toys, crafts & stationery",Guest (no ID),38.4,48
+2011-07-01,EU,Home decor,New,1155.9,554
+2011-07-01,EU,Home decor,Returning,12693.86,7321
+2011-07-01,EU,Home decor,Guest (no ID),449.48,170
+2011-07-01,EU,Other,New,954.98,505
+2011-07-01,EU,Other,Returning,8877.6,3918
+2011-07-01,EU,Other,Guest (no ID),84.6,60
+2011-07-01,Rest of world,Christmas & seasonal,New,14.48,7
+2011-07-01,Rest of world,Christmas & seasonal,Returning,1274.76,1048
+2011-07-01,Rest of world,Gifts & accessories,New,95.3,86
+2011-07-01,Rest of world,Gifts & accessories,Returning,309.84,392
+2011-07-01,Rest of world,Gifts & accessories,Guest (no ID),29.79,13
+2011-07-01,Rest of world,Candles & lighting,New,100.64,55
+2011-07-01,Rest of world,Candles & lighting,Returning,585.26,330
+2011-07-01,Rest of world,Candles & lighting,Guest (no ID),44.56,39
+2011-07-01,Rest of world,Party & gift wrap,New,142.35,123
+2011-07-01,Rest of world,Party & gift wrap,Returning,1640.45,2567
+2011-07-01,Rest of world,Party & gift wrap,Guest (no ID),110.59,133
+2011-07-01,Rest of world,Kitchen & dining,New,352.93,156
+2011-07-01,Rest of world,Kitchen & dining,Returning,5303.65,3111
+2011-07-01,Rest of world,Kitchen & dining,Guest (no ID),130.42,74
+2011-07-01,Rest of world,Bags & storage,New,52.52,52
+2011-07-01,Rest of world,Bags & storage,Returning,1135.12,734
+2011-07-01,Rest of world,Bags & storage,Guest (no ID),57.7,30
+2011-07-01,Rest of world,"Toys, crafts & stationery",New,350.86,351
+2011-07-01,Rest of world,"Toys, crafts & stationery",Returning,1039.52,1170
+2011-07-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),117.66,95
+2011-07-01,Rest of world,Home decor,New,486.38,167
+2011-07-01,Rest of world,Home decor,Returning,3920.78,1850
+2011-07-01,Rest of world,Home decor,Guest (no ID),179.03,200
+2011-07-01,Rest of world,Other,New,341.62,183
+2011-07-01,Rest of world,Other,Returning,2816.12,1602
+2011-07-01,Rest of world,Other,Guest (no ID),185.29,89
+2011-08-01,United Kingdom,Christmas & seasonal,New,1730.27,1392
+2011-08-01,United Kingdom,Christmas & seasonal,Returning,11412.37,7530
+2011-08-01,United Kingdom,Christmas & seasonal,Guest (no ID),1235.46,431
+2011-08-01,United Kingdom,Gifts & accessories,New,1280.92,671
+2011-08-01,United Kingdom,Gifts & accessories,Returning,19962.32,12196
+2011-08-01,United Kingdom,Gifts & accessories,Guest (no ID),4096.2,1165
+2011-08-01,United Kingdom,Candles & lighting,New,2381.88,1451
+2011-08-01,United Kingdom,Candles & lighting,Returning,33350.89,21825
+2011-08-01,United Kingdom,Candles & lighting,Guest (no ID),5843.84,1982
+2011-08-01,United Kingdom,Party & gift wrap,New,2376.3,2748
+2011-08-01,United Kingdom,Party & gift wrap,Returning,34685.51,33192
+2011-08-01,United Kingdom,Party & gift wrap,Guest (no ID),8631.16,2118
+2011-08-01,United Kingdom,Kitchen & dining,New,8069.04,3918
+2011-08-01,United Kingdom,Kitchen & dining,Returning,86540.59,51738
+2011-08-01,United Kingdom,Kitchen & dining,Guest (no ID),20830.77,4306
+2011-08-01,United Kingdom,Bags & storage,New,2523.09,1243
+2011-08-01,United Kingdom,Bags & storage,Returning,81629.38,46793
+2011-08-01,United Kingdom,Bags & storage,Guest (no ID),19294.98,5229
+2011-08-01,United Kingdom,"Toys, crafts & stationery",New,1629.54,1532
+2011-08-01,United Kingdom,"Toys, crafts & stationery",Returning,34312.97,28164
+2011-08-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),2811.95,1337
+2011-08-01,United Kingdom,Home decor,New,8540.66,4456
+2011-08-01,United Kingdom,Home decor,Returning,113374.11,60606
+2011-08-01,United Kingdom,Home decor,Guest (no ID),16533.63,3842
+2011-08-01,United Kingdom,Other,New,2348.21,1147
+2011-08-01,United Kingdom,Other,Returning,30572.25,20749
+2011-08-01,United Kingdom,Other,Guest (no ID),5406.65,1458
+2011-08-01,EU,Christmas & seasonal,New,92.43,37
+2011-08-01,EU,Christmas & seasonal,Returning,3299.52,2605
+2011-08-01,EU,Christmas & seasonal,Guest (no ID),164.1,36
+2011-08-01,EU,Gifts & accessories,New,100.08,40
+2011-08-01,EU,Gifts & accessories,Returning,2346.12,1393
+2011-08-01,EU,Gifts & accessories,Guest (no ID),40.2,12
+2011-08-01,EU,Candles & lighting,New,950.72,624
+2011-08-01,EU,Candles & lighting,Returning,5352.27,3392
+2011-08-01,EU,Candles & lighting,Guest (no ID),233.4,180
+2011-08-01,EU,Party & gift wrap,New,863.83,1103
+2011-08-01,EU,Party & gift wrap,Returning,5689.73,6349
+2011-08-01,EU,Kitchen & dining,New,1486.42,963
+2011-08-01,EU,Kitchen & dining,Returning,29235.8,15738
+2011-08-01,EU,Kitchen & dining,Guest (no ID),400.75,455
+2011-08-01,EU,Bags & storage,New,542.2,354
+2011-08-01,EU,Bags & storage,Returning,14443.95,9545
+2011-08-01,EU,Bags & storage,Guest (no ID),121.2,70
+2011-08-01,EU,"Toys, crafts & stationery",New,633.98,344
+2011-08-01,EU,"Toys, crafts & stationery",Returning,6034.0,5427
+2011-08-01,EU,"Toys, crafts & stationery",Guest (no ID),128.4,90
+2011-08-01,EU,Home decor,New,772.62,377
+2011-08-01,EU,Home decor,Returning,14667.81,8663
+2011-08-01,EU,Home decor,Guest (no ID),136.52,96
+2011-08-01,EU,Other,New,836.06,452
+2011-08-01,EU,Other,Returning,8907.29,5042
+2011-08-01,EU,Other,Guest (no ID),101.9,44
+2011-08-01,Rest of world,Christmas & seasonal,New,52.7,51
+2011-08-01,Rest of world,Christmas & seasonal,Returning,6982.79,3205
+2011-08-01,Rest of world,Christmas & seasonal,Guest (no ID),53.55,9
+2011-08-01,Rest of world,Gifts & accessories,New,81.3,14
+2011-08-01,Rest of world,Gifts & accessories,Returning,229.26,88
+2011-08-01,Rest of world,Gifts & accessories,Guest (no ID),49.2,12
+2011-08-01,Rest of world,Candles & lighting,New,273.16,148
+2011-08-01,Rest of world,Candles & lighting,Returning,1881.13,1111
+2011-08-01,Rest of world,Party & gift wrap,New,492.45,426
+2011-08-01,Rest of world,Party & gift wrap,Returning,3086.99,2210
+2011-08-01,Rest of world,Kitchen & dining,New,2936.68,1406
+2011-08-01,Rest of world,Kitchen & dining,Returning,6784.52,2822
+2011-08-01,Rest of world,Kitchen & dining,Guest (no ID),1503.3,442
+2011-08-01,Rest of world,Bags & storage,New,723.38,498
+2011-08-01,Rest of world,Bags & storage,Returning,4385.91,2549
+2011-08-01,Rest of world,Bags & storage,Guest (no ID),239.6,8
+2011-08-01,Rest of world,"Toys, crafts & stationery",New,445.08,468
+2011-08-01,Rest of world,"Toys, crafts & stationery",Returning,2721.2,2218
+2011-08-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),291.6,138
+2011-08-01,Rest of world,Home decor,New,1069.4,440
+2011-08-01,Rest of world,Home decor,Returning,2669.06,1292
+2011-08-01,Rest of world,Other,New,806.61,397
+2011-08-01,Rest of world,Other,Returning,4008.38,2300
+2011-08-01,Rest of world,Other,Guest (no ID),516.7,126
+2011-09-01,United Kingdom,Christmas & seasonal,New,10778.29,7343
+2011-09-01,United Kingdom,Christmas & seasonal,Returning,65373.66,46221
+2011-09-01,United Kingdom,Christmas & seasonal,Guest (no ID),3455.51,1673
+2011-09-01,United Kingdom,Gifts & accessories,New,3807.66,1968
+2011-09-01,United Kingdom,Gifts & accessories,Returning,54072.87,23999
+2011-09-01,United Kingdom,Gifts & accessories,Guest (no ID),6143.25,1158
+2011-09-01,United Kingdom,Candles & lighting,New,4522.62,2701
+2011-09-01,United Kingdom,Candles & lighting,Returning,49097.73,29052
+2011-09-01,United Kingdom,Candles & lighting,Guest (no ID),6003.29,2075
+2011-09-01,United Kingdom,Party & gift wrap,New,5884.28,7584
+2011-09-01,United Kingdom,Party & gift wrap,Returning,35781.11,40277
+2011-09-01,United Kingdom,Party & gift wrap,Guest (no ID),6372.32,2210
+2011-09-01,United Kingdom,Kitchen & dining,New,16258.76,7858
+2011-09-01,United Kingdom,Kitchen & dining,Returning,134896.03,66698
+2011-09-01,United Kingdom,Kitchen & dining,Guest (no ID),20127.86,4538
+2011-09-01,United Kingdom,Bags & storage,New,7770.94,4449
+2011-09-01,United Kingdom,Bags & storage,Returning,66913.5,39124
+2011-09-01,United Kingdom,Bags & storage,Guest (no ID),19504.7,5597
+2011-09-01,United Kingdom,"Toys, crafts & stationery",New,5643.76,5369
+2011-09-01,United Kingdom,"Toys, crafts & stationery",Returning,35007.76,29130
+2011-09-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),3407.62,1618
+2011-09-01,United Kingdom,Home decor,New,16450.34,8688
+2011-09-01,United Kingdom,Home decor,Returning,210257.1,96726
+2011-09-01,United Kingdom,Home decor,Guest (no ID),16350.29,4107
+2011-09-01,United Kingdom,Other,New,8081.33,4300
+2011-09-01,United Kingdom,Other,Returning,42852.57,24854
+2011-09-01,United Kingdom,Other,Guest (no ID),5397.24,1457
+2011-09-01,EU,Christmas & seasonal,New,582.02,466
+2011-09-01,EU,Christmas & seasonal,Returning,5879.14,4668
+2011-09-01,EU,Christmas & seasonal,Guest (no ID),50.4,24
+2011-09-01,EU,Gifts & accessories,New,739.09,292
+2011-09-01,EU,Gifts & accessories,Returning,8337.36,2987
+2011-09-01,EU,Gifts & accessories,Guest (no ID),14.85,3
+2011-09-01,EU,Candles & lighting,New,445.44,254
+2011-09-01,EU,Candles & lighting,Returning,5705.2,3563
+2011-09-01,EU,Candles & lighting,Guest (no ID),188.46,168
+2011-09-01,EU,Party & gift wrap,New,711.9,1124
+2011-09-01,EU,Party & gift wrap,Returning,6691.89,7175
+2011-09-01,EU,Party & gift wrap,Guest (no ID),50.37,63
+2011-09-01,EU,Kitchen & dining,New,2135.21,930
+2011-09-01,EU,Kitchen & dining,Returning,31092.99,15891
+2011-09-01,EU,Kitchen & dining,Guest (no ID),934.5,290
+2011-09-01,EU,Bags & storage,New,710.61,394
+2011-09-01,EU,Bags & storage,Returning,9828.69,6107
+2011-09-01,EU,Bags & storage,Guest (no ID),10.2,12
+2011-09-01,EU,"Toys, crafts & stationery",New,853.38,621
+2011-09-01,EU,"Toys, crafts & stationery",Returning,8511.49,7229
+2011-09-01,EU,"Toys, crafts & stationery",Guest (no ID),68.28,84
+2011-09-01,EU,Home decor,New,1241.94,573
+2011-09-01,EU,Home decor,Returning,25434.39,13640
+2011-09-01,EU,Home decor,Guest (no ID),576.75,223
+2011-09-01,EU,Other,New,1187.55,555
+2011-09-01,EU,Other,Returning,14935.24,8736
+2011-09-01,EU,Other,Guest (no ID),160.5,70
+2011-09-01,Rest of world,Christmas & seasonal,New,69.36,24
+2011-09-01,Rest of world,Christmas & seasonal,Returning,872.26,486
+2011-09-01,Rest of world,Christmas & seasonal,Guest (no ID),75.0,20
+2011-09-01,Rest of world,Gifts & accessories,New,123.6,72
+2011-09-01,Rest of world,Gifts & accessories,Returning,1067.14,497
+2011-09-01,Rest of world,Gifts & accessories,Guest (no ID),40.2,12
+2011-09-01,Rest of world,Candles & lighting,New,519.6,216
+2011-09-01,Rest of world,Candles & lighting,Returning,853.31,577
+2011-09-01,Rest of world,Candles & lighting,Guest (no ID),2.08,1
+2011-09-01,Rest of world,Party & gift wrap,New,853.87,721
+2011-09-01,Rest of world,Party & gift wrap,Returning,1282.38,1040
+2011-09-01,Rest of world,Party & gift wrap,Guest (no ID),84.9,42
+2011-09-01,Rest of world,Kitchen & dining,New,1385.7,560
+2011-09-01,Rest of world,Kitchen & dining,Returning,4883.21,2551
+2011-09-01,Rest of world,Kitchen & dining,Guest (no ID),87.83,38
+2011-09-01,Rest of world,Bags & storage,New,522.92,220
+2011-09-01,Rest of world,Bags & storage,Returning,1029.78,717
+2011-09-01,Rest of world,Bags & storage,Guest (no ID),55.04,29
+2011-09-01,Rest of world,"Toys, crafts & stationery",New,816.84,264
+2011-09-01,Rest of world,"Toys, crafts & stationery",Returning,3735.34,3333
+2011-09-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),65.38,51
+2011-09-01,Rest of world,Home decor,New,244.3,186
+2011-09-01,Rest of world,Home decor,Returning,2193.65,1213
+2011-09-01,Rest of world,Home decor,Guest (no ID),163.26,186
+2011-09-01,Rest of world,Other,New,371.68,352
+2011-09-01,Rest of world,Other,Returning,2509.96,1278
+2011-09-01,Rest of world,Other,Guest (no ID),134.34,111
+2011-10-01,United Kingdom,Christmas & seasonal,New,12758.24,12125
+2011-10-01,United Kingdom,Christmas & seasonal,Returning,75385.0,56032
+2011-10-01,United Kingdom,Christmas & seasonal,Guest (no ID),8926.11,4398
+2011-10-01,United Kingdom,Gifts & accessories,New,5019.98,3001
+2011-10-01,United Kingdom,Gifts & accessories,Returning,52536.67,24963
+2011-10-01,United Kingdom,Gifts & accessories,Guest (no ID),8314.47,1636
+2011-10-01,United Kingdom,Candles & lighting,New,6221.8,3873
+2011-10-01,United Kingdom,Candles & lighting,Returning,56958.58,34866
+2011-10-01,United Kingdom,Candles & lighting,Guest (no ID),5330.43,1549
+2011-10-01,United Kingdom,Party & gift wrap,New,7291.59,7982
+2011-10-01,United Kingdom,Party & gift wrap,Returning,35460.23,43107
+2011-10-01,United Kingdom,Party & gift wrap,Guest (no ID),5253.42,1907
+2011-10-01,United Kingdom,Kitchen & dining,New,14499.15,7006
+2011-10-01,United Kingdom,Kitchen & dining,Returning,103592.33,50841
+2011-10-01,United Kingdom,Kitchen & dining,Guest (no ID),21630.59,4447
+2011-10-01,United Kingdom,Bags & storage,New,3207.26,1810
+2011-10-01,United Kingdom,Bags & storage,Returning,60007.07,33667
+2011-10-01,United Kingdom,Bags & storage,Guest (no ID),17751.74,5429
+2011-10-01,United Kingdom,"Toys, crafts & stationery",New,7198.27,5830
+2011-10-01,United Kingdom,"Toys, crafts & stationery",Returning,58088.48,42932
+2011-10-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),4307.11,1600
+2011-10-01,United Kingdom,Home decor,New,16314.16,8651
+2011-10-01,United Kingdom,Home decor,Returning,210929.67,90003
+2011-10-01,United Kingdom,Home decor,Guest (no ID),21753.11,5819
+2011-10-01,United Kingdom,Other,New,7762.56,4529
+2011-10-01,United Kingdom,Other,Returning,44462.99,23273
+2011-10-01,United Kingdom,Other,Guest (no ID),5962.14,1535
+2011-10-01,EU,Christmas & seasonal,New,960.44,606
+2011-10-01,EU,Christmas & seasonal,Returning,9597.11,8369
+2011-10-01,EU,Christmas & seasonal,Guest (no ID),11.25,9
+2011-10-01,EU,Gifts & accessories,New,478.87,300
+2011-10-01,EU,Gifts & accessories,Returning,3835.59,1374
+2011-10-01,EU,Gifts & accessories,Guest (no ID),47.6,8
+2011-10-01,EU,Candles & lighting,New,729.65,493
+2011-10-01,EU,Candles & lighting,Returning,15018.82,7061
+2011-10-01,EU,Candles & lighting,Guest (no ID),16.6,4
+2011-10-01,EU,Party & gift wrap,New,791.42,964
+2011-10-01,EU,Party & gift wrap,Returning,8983.24,10915
+2011-10-01,EU,Party & gift wrap,Guest (no ID),10.5,10
+2011-10-01,EU,Kitchen & dining,New,3317.34,1646
+2011-10-01,EU,Kitchen & dining,Returning,37005.97,19150
+2011-10-01,EU,Kitchen & dining,Guest (no ID),107.3,28
+2011-10-01,EU,Bags & storage,New,588.16,302
+2011-10-01,EU,Bags & storage,Returning,11038.03,6861
+2011-10-01,EU,"Toys, crafts & stationery",New,1495.55,1401
+2011-10-01,EU,"Toys, crafts & stationery",Returning,12426.0,12050
+2011-10-01,EU,"Toys, crafts & stationery",Guest (no ID),31.9,15
+2011-10-01,EU,Home decor,New,1818.95,937
+2011-10-01,EU,Home decor,Returning,22550.06,13569
+2011-10-01,EU,Home decor,Guest (no ID),17.93,17
+2011-10-01,EU,Other,New,1697.17,978
+2011-10-01,EU,Other,Returning,14993.72,8383
+2011-10-01,EU,Other,Guest (no ID),64.13,45
+2011-10-01,Rest of world,Christmas & seasonal,New,21.09,7
+2011-10-01,Rest of world,Christmas & seasonal,Returning,859.74,647
+2011-10-01,Rest of world,Christmas & seasonal,Guest (no ID),98.63,61
+2011-10-01,Rest of world,Gifts & accessories,New,66.0,26
+2011-10-01,Rest of world,Gifts & accessories,Returning,1599.9,522
+2011-10-01,Rest of world,Gifts & accessories,Guest (no ID),22.56,40
+2011-10-01,Rest of world,Candles & lighting,New,441.49,307
+2011-10-01,Rest of world,Candles & lighting,Returning,3422.98,1802
+2011-10-01,Rest of world,Candles & lighting,Guest (no ID),138.16,72
+2011-10-01,Rest of world,Party & gift wrap,New,528.69,691
+2011-10-01,Rest of world,Party & gift wrap,Returning,2998.51,2907
+2011-10-01,Rest of world,Party & gift wrap,Guest (no ID),43.09,35
+2011-10-01,Rest of world,Kitchen & dining,New,1127.72,668
+2011-10-01,Rest of world,Kitchen & dining,Returning,7861.95,3067
+2011-10-01,Rest of world,Kitchen & dining,Guest (no ID),196.26,76
+2011-10-01,Rest of world,Bags & storage,New,247.25,147
+2011-10-01,Rest of world,Bags & storage,Returning,1761.51,951
+2011-10-01,Rest of world,Bags & storage,Guest (no ID),5.1,2
+2011-10-01,Rest of world,"Toys, crafts & stationery",New,325.36,285
+2011-10-01,Rest of world,"Toys, crafts & stationery",Returning,2442.41,2111
+2011-10-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),222.94,136
+2011-10-01,Rest of world,Home decor,New,664.28,302
+2011-10-01,Rest of world,Home decor,Returning,8308.81,2341
+2011-10-01,Rest of world,Home decor,Guest (no ID),157.28,173
+2011-10-01,Rest of world,Other,New,326.0,172
+2011-10-01,Rest of world,Other,Returning,3018.68,1373
+2011-10-01,Rest of world,Other,Guest (no ID),235.09,111
+2011-11-01,United Kingdom,Christmas & seasonal,New,6940.45,6508
+2011-11-01,United Kingdom,Christmas & seasonal,Returning,101123.13,73922
+2011-11-01,United Kingdom,Christmas & seasonal,Guest (no ID),53731.98,15366
+2011-11-01,United Kingdom,Gifts & accessories,New,4952.33,2335
+2011-11-01,United Kingdom,Gifts & accessories,Returning,79749.83,32851
+2011-11-01,United Kingdom,Gifts & accessories,Guest (no ID),26706.55,5063
+2011-11-01,United Kingdom,Candles & lighting,New,6574.6,4512
+2011-11-01,United Kingdom,Candles & lighting,Returning,96109.94,49615
+2011-11-01,United Kingdom,Candles & lighting,Guest (no ID),30172.47,7278
+2011-11-01,United Kingdom,Party & gift wrap,New,7546.01,6634
+2011-11-01,United Kingdom,Party & gift wrap,Returning,39184.44,44532
+2011-11-01,United Kingdom,Party & gift wrap,Guest (no ID),13105.16,5803
+2011-11-01,United Kingdom,Kitchen & dining,New,15027.58,8280
+2011-11-01,United Kingdom,Kitchen & dining,Returning,128555.58,67763
+2011-11-01,United Kingdom,Kitchen & dining,Guest (no ID),54755.78,13693
+2011-11-01,United Kingdom,Bags & storage,New,3502.24,2061
+2011-11-01,United Kingdom,Bags & storage,Returning,82522.09,47314
+2011-11-01,United Kingdom,Bags & storage,Guest (no ID),35719.0,10073
+2011-11-01,United Kingdom,"Toys, crafts & stationery",New,6007.17,5528
+2011-11-01,United Kingdom,"Toys, crafts & stationery",Returning,59591.83,47524
+2011-11-01,United Kingdom,"Toys, crafts & stationery",Guest (no ID),23396.34,8272
+2011-11-01,United Kingdom,Home decor,New,15713.26,8153
+2011-11-01,United Kingdom,Home decor,Returning,223486.79,105014
+2011-11-01,United Kingdom,Home decor,Guest (no ID),46426.28,10511
+2011-11-01,United Kingdom,Other,New,7839.32,4567
+2011-11-01,United Kingdom,Other,Returning,63061.26,37204
+2011-11-01,United Kingdom,Other,Guest (no ID),27403.18,7032
+2011-11-01,EU,Christmas & seasonal,New,498.82,373
+2011-11-01,EU,Christmas & seasonal,Returning,9324.66,8126
+2011-11-01,EU,Christmas & seasonal,Guest (no ID),111.8,189
+2011-11-01,EU,Gifts & accessories,New,412.7,110
+2011-11-01,EU,Gifts & accessories,Returning,5840.73,1960
+2011-11-01,EU,Gifts & accessories,Guest (no ID),15.4,4
+2011-11-01,EU,Candles & lighting,New,275.89,99
+2011-11-01,EU,Candles & lighting,Returning,12989.11,6636
+2011-11-01,EU,Candles & lighting,Guest (no ID),204.45,113
+2011-11-01,EU,Party & gift wrap,New,555.3,433
+2011-11-01,EU,Party & gift wrap,Returning,7260.99,8117
+2011-11-01,EU,Party & gift wrap,Guest (no ID),83.61,61
+2011-11-01,EU,Kitchen & dining,New,1384.17,345
+2011-11-01,EU,Kitchen & dining,Returning,38556.17,17771
+2011-11-01,EU,Kitchen & dining,Guest (no ID),423.45,120
+2011-11-01,EU,Bags & storage,New,87.71,90
+2011-11-01,EU,Bags & storage,Returning,11240.1,7110
+2011-11-01,EU,Bags & storage,Guest (no ID),7.19,4
+2011-11-01,EU,"Toys, crafts & stationery",New,522.03,431
+2011-11-01,EU,"Toys, crafts & stationery",Returning,11690.98,9934
+2011-11-01,EU,"Toys, crafts & stationery",Guest (no ID),87.7,42
+2011-11-01,EU,Home decor,New,617.16,308
+2011-11-01,EU,Home decor,Returning,19027.58,9918
+2011-11-01,EU,Home decor,Guest (no ID),633.44,477
+2011-11-01,EU,Other,New,516.62,220
+2011-11-01,EU,Other,Returning,14115.12,7480
+2011-11-01,EU,Other,Guest (no ID),69.6,26
+2011-11-01,Rest of world,Christmas & seasonal,New,52.34,26
+2011-11-01,Rest of world,Christmas & seasonal,Returning,1874.17,742
+2011-11-01,Rest of world,Gifts & accessories,Returning,1872.53,711
+2011-11-01,Rest of world,Candles & lighting,New,27.48,10
+2011-11-01,Rest of world,Candles & lighting,Returning,9219.74,5190
+2011-11-01,Rest of world,Candles & lighting,Guest (no ID),44.76,24
+2011-11-01,Rest of world,Party & gift wrap,New,26.1,26
+2011-11-01,Rest of world,Party & gift wrap,Returning,1623.97,1521
+2011-11-01,Rest of world,Party & gift wrap,Guest (no ID),8.4,20
+2011-11-01,Rest of world,Kitchen & dining,New,48.8,16
+2011-11-01,Rest of world,Kitchen & dining,Returning,5961.24,2910
+2011-11-01,Rest of world,Kitchen & dining,Guest (no ID),221.85,115
+2011-11-01,Rest of world,Bags & storage,Returning,1262.94,812
+2011-11-01,Rest of world,Bags & storage,Guest (no ID),52.5,26
+2011-11-01,Rest of world,"Toys, crafts & stationery",New,43.25,31
+2011-11-01,Rest of world,"Toys, crafts & stationery",Returning,1982.74,1062
+2011-11-01,Rest of world,"Toys, crafts & stationery",Guest (no ID),265.1,234
+2011-11-01,Rest of world,Home decor,New,15.3,6
+2011-11-01,Rest of world,Home decor,Returning,4156.65,1832
+2011-11-01,Rest of world,Home decor,Guest (no ID),47.1,10
+2011-11-01,Rest of world,Other,New,135.3,66
+2011-11-01,Rest of world,Other,Returning,2395.88,1138
+2011-11-01,Rest of world,Other,Guest (no ID),326.04,212

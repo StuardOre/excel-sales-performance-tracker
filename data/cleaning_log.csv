@@ -1,0 +1,7 @@
+Step,Rows,Note
+Rows in source (both sheets),1067371,
+Exact duplicate rows removed,34335,includes the 1-9 Dec 2010 rows that appear in both sheets of the source
+Non-product lines removed,5866,"postage, carriage, fees, manual adjustments, discounts, samples, tests, gift vouchers"
+Lines with price 0 or below removed,5960,stock adjustments with no sales value
+Lines outside full months removed,25099,1-9 Dec 2011 (partial month)
+Lines kept,996111,net sales = quantity x price; returns (invoices starting with C) are negative
